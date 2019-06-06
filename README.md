@@ -1,2 +1,2 @@
-# phishing_domains
-Some cool phishing domain list xP
+# Bad Domains
+A Filter for uBO that blocks internet garbage
