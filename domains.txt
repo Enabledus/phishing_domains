@@ -37,6 +37,9 @@
 ||adform.net
 ||plista.com
 ||adnxs.com
+||hajoopteg.com
+||bidgear.com
+
 @@||youtube.com/api/stats/playback?$image
 
 /adsid
