@@ -79,7 +79,7 @@
 
 ! Experimental
 &callback=
-/*.png?*&
+/*.png?*&*&
 ||yandex.ru$third-party
 &page-ref
 
