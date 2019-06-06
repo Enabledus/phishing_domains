@@ -43,10 +43,12 @@
 ||propellerclick.com
 ||babyboomboomads.com
 ||adqy6rzwcs.com
+||wranjeon.xyz
 
 @@||youtube.com/api/stats/playback?$image
 
 /adsid
+/ads/
 /pagead$image
 /generate_204$image
 /g$beacon
@@ -80,6 +82,7 @@
 &callback=
 /*.png?*&
 ||yandex.ru$third-party
+&page-ref
 
 ! Player miners
 .info^$script,third-party,domain=oload.info|oload.tv|openload.co|streamango.com|streamcherry.com
