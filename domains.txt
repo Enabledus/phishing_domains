@@ -30,6 +30,7 @@
 /pagead$image
 /generate_204$image
 /g
+/370x200
 &pr
 &ad=
 &view=ad&
