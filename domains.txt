@@ -44,16 +44,11 @@
 ||babyboomboomads.com
 ||adqy6rzwcs.com
 ||wranjeon.xyz
+||trafficjunky.net
 
 @@||youtube.com/api/stats/playback?$image
 
-/adsid
 /ads/
-/direct_ads/
-/pagead$image
-/generate_204$image
-/g$beacon
-/370x200
 /*.php?$popup
 /retargeting_get_cookie_params
 ?var=
