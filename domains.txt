@@ -8,13 +8,15 @@
 ||connect.facebook.net$script
 ||vars.hotjar.com$third-party
 ||googletagmanager.com
-||pub.network$script
+||pub.network$third-party
 ||scorecardresearch.com$third-party
 ||ad-delivery.net$third-party
 ||adhigh.net$third-party
 ||adtelligent.com$third-party
 ||adsrvr.org
 ||eyeviewads.com$third-party
+||googlesyndication.com$third-party
+||adsafeprotected.com
 
 ! Automated Filters
 
