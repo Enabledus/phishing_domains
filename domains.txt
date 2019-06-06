@@ -22,13 +22,15 @@
 ||youtube.com/ptracking?
 ||youtube.com/api/stats/qoe?
 ||google-analytics.com
-||trck.bebi.com
+||bebi.com
 ||advertising.com
 ||bitadv.co
 ||adtng.com
 @@||youtube.com/api/stats/playback?$image
 /pagead$image
 /generate_204$image
+/g
+&pr
 &ad=
 &view=ad&
 &popunder=
