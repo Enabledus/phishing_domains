@@ -99,3 +99,4 @@
 ! Elements
 ###player-ads
 ##.ytp-ad-progress-list
+reddit.com##.promotedlink
