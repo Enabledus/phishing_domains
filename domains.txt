@@ -1,5 +1,4 @@
 ! Homemade xP
-
 ||google.com/pagead$third-party
 ||doubleclick.net$third-party
 ||adservice.google.com
@@ -19,8 +18,10 @@
 ||adsafeprotected.com
 ||pubmatic.com$third-party
 ||firtimpression.com$third-party
-! Incase they start treacking using the fonts api
+! Incase they start tracking using these apis
 ||fonts.googleapis.com$script
+||abs.twimg.com$script
+||pbs.twimg.com$script
 
 ! Automated Filters
 
