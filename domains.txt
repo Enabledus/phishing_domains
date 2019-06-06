@@ -18,6 +18,9 @@
 ||adsafeprotected.com
 ||pubmatic.com$third-party
 ||firtimpression.com$third-party
+||analytics.twitter.com
+/pagead$image
+
 ! Incase they start tracking using these apis
 ||fonts.googleapis.com$script
 ||pbs.twimg.com$script
