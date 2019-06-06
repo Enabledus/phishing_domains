@@ -59,9 +59,6 @@
 ! Prevent popup bypasses
 ||google.com$popup
 
-! Fingerprinting
-/canvas/$xhr
-
 ! Incase they start tracking using these apis
 ||fonts.googleapis.com$script
 ||pbs.twimg.com$script
