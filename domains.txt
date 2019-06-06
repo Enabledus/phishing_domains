@@ -31,7 +31,7 @@
 ||deloplen.com
 ||clickagy.com
 ||taboola.com
-||2mdnys.com
+||2mdnsys.com
 ||360yield.com
 ||unrulymedia.com
 ||adform.net
@@ -45,6 +45,7 @@
 /g$beacon
 /370x200
 /*.php?$popup
+/retargeting_get_cookie_params
 ?var=
 ?var=&popup
 ?ip=
@@ -64,6 +65,10 @@
 &var=
 &adform
 &token=
+
+! Experimental
+/invoke.js
+&callback=
 
 ! Player miners
 .info^$script,third-party,domain=oload.info|oload.tv|openload.co|streamango.com|streamcherry.com
