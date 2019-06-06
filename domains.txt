@@ -36,6 +36,7 @@
 ||unrulymedia.com
 ||adform.net
 ||plista.com
+||adnxs.com
 @@||youtube.com/api/stats/playback?$image
 
 /*.png?
@@ -52,12 +53,14 @@
 ?adnxs
 ?zoneid=
 ?adform_pid
+?pid=
 &drf=
 &zoneid=
 &pr=
 &popup=
 &lifetime=
 &ad=
+&puid=
 &view=ad&
 &popunder=
 &googleadword=
