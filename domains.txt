@@ -1,3 +1,10 @@
+! Homemade xP
+
+||google.com/pagead$third-party
+||googleads.g.doubleclick.net$third-party
+
+! Automated Filters
+
 101ecommerce.com
 101ecommerce.phoenixwebsolutions.net
 1commercialrealestate.com
