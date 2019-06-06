@@ -29,6 +29,13 @@
 ||dolohen.com
 ||otefauks.link
 ||deloplen.com
+||clickagy.com
+||taboola.com
+||2mdnys.com
+||360yield.com
+||unrulymedia.com
+||adform.net
+||plista.com
 @@||youtube.com/api/stats/playback?$image
 
 /*.png?
@@ -41,7 +48,9 @@
 ?var=
 ?var=&popup
 ?ip=
+?adnxs
 ?zoneid=
+?adform_pid
 &drf=
 &zoneid=
 &pr=
@@ -53,6 +62,8 @@
 &googleadword=
 &adurl=
 &var=
+&adform
+&token=
 
 ! Player miners
 .info^$script,third-party,domain=oload.info|oload.tv|openload.co|streamango.com|streamcherry.com
