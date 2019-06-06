@@ -81,7 +81,7 @@
 
 ! Experimental
 &callback=
-/*.png?*&*&*&*&
+/*.png?*&*&*&*&*&*&
 ||yandex.ru$third-party
 &page-ref
 /direct_ads/*
