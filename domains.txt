@@ -6,6 +6,7 @@
 ||googleadservices.com$third-party
 ||static.hotjar.com$script
 ||connect.facebook.net$script
+||vars.hotjar.com$third-party
 
 ! Automated Filters
 
