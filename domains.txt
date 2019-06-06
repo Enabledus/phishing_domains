@@ -7,6 +7,14 @@
 ||static.hotjar.com$script
 ||connect.facebook.net$script
 ||vars.hotjar.com$third-party
+||googletagmanager.com
+||pub.network$script
+||scorecardresearch.com$third-party
+||ad-delivery.net$third-party
+||adhigh.net$third-party
+||adtelligent.com$third-party
+||adsrvr.org
+||eyeviewads.com$third-party
 
 ! Automated Filters
 
