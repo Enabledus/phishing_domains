@@ -56,6 +56,7 @@
 ?var=
 ?var=&popup
 ?ip=
+?h=
 ?adnxs
 ?zoneid=
 ?adform_pid
@@ -74,6 +75,7 @@
 &var=
 &adform
 &token=
+&ss_click
 
 ! Experimental
 &callback=
