@@ -22,37 +22,6 @@
 ||youtube.com/ptracking?
 ||youtube.com/api/stats/qoe?
 ||google-analytics.com
-@@||youtube.com/api/stats/playback?$image
-/pagead$image
-/generate_204$image
-&ad=
-&view=ad&
-&popunder=
-&googleadword=
-&adurl=||google.com/pagead$third-party
-||doubleclick.net^
-||adservice.google.com
-||googleadservices.com$third-party
-||static.hotjar.com$script
-||connect.facebook.net$script
-||vars.hotjar.com$third-party
-||googletagmanager.com
-||pub.network$third-party
-||scorecardresearch.com$third-party
-||ad-delivery.net$third-party
-||adhigh.net$third-party
-||adtelligent.com$third-party
-||adsrvr.org
-||eyeviewads.com$third-party
-||googlesyndication.com$third-party
-||adsafeprotected.com
-||pubmatic.com$third-party
-||firtimpression.com$third-party
-||analytics.twitter.com
-||youtube.com/get_midroll_
-||youtube.com/ptracking?
-||youtube.com/api/stats/qoe?
-||google-analytics.com
 ||trck.bebi.com
 ||advertising.com
 ||bitadv.co
@@ -65,13 +34,6 @@
 &popunder=
 &googleadword=
 &adurl=
-
-! Video Player miners
-.info^$script,third-party,domain=oload.info|oload.tv|openload.co|streamango.com|streamcherry.com
-
-! Incase they start tracking using these apis
-||fonts.googleapis.com$script
-||pbs.twimg.com$script
 
 ! Player miners
 .info^$script,third-party,domain=oload.info|oload.tv|openload.co|streamango.com|streamcherry.com
