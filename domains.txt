@@ -36,6 +36,9 @@
 /g$beacon
 /370x200
 ?var=
+?ip=
+&drf=
+&zoneid=
 &pr=
 &popup=
 &lifetime=
