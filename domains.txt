@@ -18,6 +18,9 @@
 ||googlesyndication.com$third-party
 ||adsafeprotected.com
 ||pubmatic.com$third-party
+||firtimpression.com$third-party
+! Incase they start treacking using the fonts api
+||fonts.googleapis.com$script
 
 ! Automated Filters
 
