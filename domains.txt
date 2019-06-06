@@ -39,6 +39,9 @@
 ||adnxs.com
 ||hajoopteg.com
 ||bidgear.com
+||ads.linkedin.com
+||propellerclick.com
+||babyboomboomads.com
 
 @@||youtube.com/api/stats/playback?$image
 
