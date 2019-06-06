@@ -27,6 +27,7 @@
 ||bitadv.co
 ||adtng.com
 ||dolohen.com
+||otefauks.link
 @@||youtube.com/api/stats/playback?$image
 
 /adsid
@@ -34,6 +35,7 @@
 /generate_204$image
 /g$beacon
 /370x200
+?var=
 &pr=
 &popup=
 &lifetime=
@@ -47,7 +49,7 @@
 .info^$script,third-party,domain=oload.info|oload.tv|openload.co|streamango.com|streamcherry.com
 
 ! Prevent popup bypasses
-||about:blank$popup
+||google.com$popup
 
 ! Incase they start tracking using these apis
 ||fonts.googleapis.com$script
