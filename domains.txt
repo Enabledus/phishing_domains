@@ -1,6 +1,6 @@
 ! Homemade xP
 ||google.com/pagead$third-party
-||doubleclick.net$third-party
+||doubleclick.net^
 ||adservice.google.com
 ||googleadservices.com$third-party
 ||static.hotjar.com$script
@@ -19,7 +19,12 @@
 ||pubmatic.com$third-party
 ||firtimpression.com$third-party
 ||analytics.twitter.com
+||youtube.com/get_midroll_
+||youtube.com/ptracking?
+||youtube.com/api/stats/qoe?
+@@||youtube.com/api/stats/playback?$image
 /pagead$image
+/generate_204$image
 
 ! Incase they start tracking using these apis
 ||fonts.googleapis.com$script
