@@ -49,11 +49,9 @@
 @@||youtube.com/api/stats/playback?$image
 
 /ads/
-adsid
-direct_ads
-pagead$image
-generate_204$image
-370x200
+/pagead$image
+/generate_204$image
+/370x200
 /*.php?$popup
 /retargeting_get_cookie_params
 ?var=
