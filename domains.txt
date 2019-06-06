@@ -2,6 +2,10 @@
 
 ||google.com/pagead$third-party
 ||googleads.g.doubleclick.net$third-party
+||adservice.google.com
+||googleadservices.com$third-party
+||static.hotjar.com$script
+||connect.facebook.net$script
 
 ! Automated Filters
 
