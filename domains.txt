@@ -31,7 +31,7 @@
 
 /pagead$image
 /generate_204$image
-/g
+/g/
 /370x200
 &pr
 &ad=
