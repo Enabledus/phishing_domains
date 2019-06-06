@@ -43,6 +43,9 @@
 ! Player miners
 .info^$script,third-party,domain=oload.info|oload.tv|openload.co|streamango.com|streamcherry.com
 
+! Prevent popup bypasses
+||about:blank$popup
+
 ! Incase they start tracking using these apis
 ||fonts.googleapis.com$script
 ||pbs.twimg.com$script
