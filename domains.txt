@@ -49,6 +49,7 @@
 
 /adsid
 /ads/
+/direct_ads/
 /pagead$image
 /generate_204$image
 /g$beacon
