@@ -45,7 +45,8 @@
 ||adqy6rzwcs.com
 ||wranjeon.xyz
 ||trafficjunky.net
-||cbbp1.com
+||cbbp1.com^$popup
+||cbbp1.com^$document
 
 @@||youtube.com/api/stats/playback?$image
 
