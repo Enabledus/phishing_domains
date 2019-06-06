@@ -48,6 +48,7 @@
 
 @@||youtube.com/api/stats/playback?$image
 
+/ads/
 /*.php?$popup
 /retargeting_get_cookie_params
 ?var=
@@ -73,12 +74,10 @@
 &token=
 
 ! Experimental
-/invoke.js
 &callback=
 /*.png?*&
 ||yandex.ru$third-party
 &page-ref
-/ads/
 
 ! Player miners
 .info^$script,third-party,domain=oload.info|oload.tv|openload.co|streamango.com|streamcherry.com
