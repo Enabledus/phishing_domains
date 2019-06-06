@@ -50,7 +50,7 @@
 
 @@||youtube.com/api/stats/playback?$image
 
-/ads/
+||ads.*
 /*.php?$popup
 /retargeting_get_cookie_params
 ?var=
@@ -92,3 +92,7 @@
 ! Incase they start tracking using these apis
 ||fonts.googleapis.com$script
 ||pbs.twimg.com$script
+
+! Elements
+###player-ads
+##.ytp-ad-progress-list
