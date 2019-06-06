@@ -39,6 +39,7 @@
 /370x200
 /*.php?$popup
 ?var=
+?var=&popup
 ?ip=
 ?zoneid=
 &drf=
