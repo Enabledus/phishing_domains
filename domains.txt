@@ -17,6 +17,7 @@
 ||eyeviewads.com$third-party
 ||googlesyndication.com$third-party
 ||adsafeprotected.com
+||pubmatic.com$third-party
 
 ! Automated Filters
 
