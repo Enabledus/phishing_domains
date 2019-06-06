@@ -20,8 +20,6 @@
 ||firtimpression.com$third-party
 ! Incase they start tracking using these apis
 ||fonts.googleapis.com$script
-||abs.twimg.com/emoji$script
-||abs.twimg.com/media$script
 ||pbs.twimg.com$script
 
 ! Automated Filters
