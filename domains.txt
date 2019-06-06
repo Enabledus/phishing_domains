@@ -33,7 +33,9 @@
 /generate_204$image
 /g$beacon
 /370x200
-&pr
+&pr=
+&popup=
+&lifetime=
 &ad=
 &view=ad&
 &popunder=
