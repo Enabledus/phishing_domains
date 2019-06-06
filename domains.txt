@@ -28,6 +28,7 @@
 ||adtng.com
 ||dolohen.com
 ||otefauks.link
+||deloplen.com
 @@||youtube.com/api/stats/playback?$image
 
 /adsid
@@ -35,8 +36,10 @@
 /generate_204$image
 /g$beacon
 /370x200
+/*.php?$popup
 ?var=
 ?ip=
+?zoneid=
 &drf=
 &zoneid=
 &pr=
@@ -47,6 +50,7 @@
 &popunder=
 &googleadword=
 &adurl=
+&var=
 
 ! Player miners
 .info^$script,third-party,domain=oload.info|oload.tv|openload.co|streamango.com|streamcherry.com
