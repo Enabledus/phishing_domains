@@ -29,6 +29,7 @@
 ||dolohen.com
 @@||youtube.com/api/stats/playback?$image
 
+/adsid
 /pagead$image
 /generate_204$image
 /g$beacon
