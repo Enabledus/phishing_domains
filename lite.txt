@@ -84,3 +84,5 @@ reddit.com##.promotedlink
 
 ! Experimental URL Blocking
 ||syndication.*
+||adserver.*
+||advertising.*
