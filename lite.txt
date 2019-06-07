@@ -79,3 +79,6 @@ reddit.com##.promotedlink
 ! Experimental Script Blocking
 /*ads*.js
 /linkid.js
+
+! Experimental URL Blocking
+||syndication.*
