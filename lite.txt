@@ -61,6 +61,15 @@ reddit.com##.promotedlink
 &cid=
 &uid=
 &timestamp=
+&ga_vid
+&vis=
+&adsid=
+&adf=
+&dtd=
+&jar=
+&bc=
+&adk=
+&u_ah=
 
 ! Experimental Script Blocking
 /*ads*.js
