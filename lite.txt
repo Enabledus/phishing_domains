@@ -75,6 +75,8 @@ reddit.com##.promotedlink
 &u_w=
 &abl=
 &output=html
+&refresh_times=
+&dl=
 
 ! Experimental Script Blocking
 /*ads*.js
