@@ -16,4 +16,4 @@ The **Lite** filter can break some sites in exchange for the minimal ram footpri
 
 **Phishing** is a list of known phishing domains that is update regularly.
 
-**Fuck off Google** focuses on blocking as many Google tracking attempts as possible in exchange of breaking some sites.
+**Fuck off Google** focuses on blocking as many Google tracking attempts as possible, in exchange of breaking some sites.
