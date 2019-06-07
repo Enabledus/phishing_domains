@@ -70,6 +70,13 @@ reddit.com##.promotedlink
 &bc=
 &adk=
 &u_ah=
+&plat=
+&pra=
+&u_w=
+&vis=
+&abl=
+&output=html
+&lmt=
 
 ! Experimental Script Blocking
 /*ads*.js
