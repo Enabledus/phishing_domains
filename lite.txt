@@ -73,7 +73,6 @@ reddit.com##.promotedlink
 &plat=
 &pra=
 &u_w=
-&vis=
 &abl=
 &output=html
 &lmt=
