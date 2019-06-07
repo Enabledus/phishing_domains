@@ -51,6 +51,8 @@ reddit.com##.promotedlink
 ! Tracking parameters experimental
 ?cep=
 ?push=
+?id=
+?t=
 &cep=
 &first_pool=
 &hac=
