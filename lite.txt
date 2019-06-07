@@ -49,6 +49,7 @@
 reddit.com##.promotedlink
 
 ! Tracking parameters experimental
+?cep=
 &first_pool=
 &hac=
 &rst=
@@ -77,6 +78,12 @@ reddit.com##.promotedlink
 &output=html
 &refresh_times=
 &dl=
+&campaignid=
+&cost=
+&ntk=
+&random=
+&geo=
+&bannerid=
 
 ! Experimental Script Blocking
 /*ads*.js
