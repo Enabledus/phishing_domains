@@ -96,6 +96,9 @@ reddit.com##.promotedlink
 /linkid.js
 /beacon.js
 
+! Experimental Directory Blocking
+/adsid/*
+
 ! Experimental URL Blocking
 ||syndication.*
 ||adserver.*
