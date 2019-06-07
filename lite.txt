@@ -89,6 +89,7 @@ reddit.com##.promotedlink
 &random=
 &geo=
 &bannerid=
+&r=
 
 ! Experimental Script Blocking
 /ads.js
