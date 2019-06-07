@@ -12,7 +12,7 @@ The **Lite** filter can break some sites in exchange for the minimal ram footpri
 
 **Domains** is like the usual filters you've seen before. It has got a list of tracking domains that it blocks.
 
-#### Coming soon
+### Coming soon
 
 **Phishing** a list of known phishing domains that is update regularly.
 
