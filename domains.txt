@@ -24,7 +24,6 @@
 ||youtube.com/ptracking?
 ||youtube.com/api/stats/qoe?
 ||google-analytics.com^
-||www.google-analytics.com^
 ||bebi.com^
 ||advertising.com^
 ||bitadv.co^
