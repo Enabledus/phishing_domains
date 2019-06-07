@@ -17,4 +17,4 @@ The **Lite** filter can be combined with different filters since it blocks what 
 
 **Fuck off Google** focuses on blocking as many Google tracking attempts as possible, in exchange of breaking some sites.
 
-**Exploits** aims at defeating XSS'es and 0day exploits.
+**Exploits** aims at defending against XSS'es and 0day exploits.
