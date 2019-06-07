@@ -1,1 +1,49 @@
+||ads.*
+||advert.*
+||advertise.*
+/*.php?$popup
+/retargeting_get_cookie_params*
+/js/ads.
+/generate_204$image
+?var=
+?var=&popup
+?ip=
+?h=
+?adnxs
+?zoneid=
+?adform_pid
+?pid=
+&drf=
+&zoneid=
+&pr=
+&popup=
+&lifetime=
+&ad=
+&puid=
+&view=ad&
+&popunder=
+&googleadword=
+&adurl=
+&var=
+&adform
+&token=
+&ss_click
 
+! Experimental
+&callback=
+/*.png?*&*&*&*&*&*&*&*&
+||yandex.ru$third-party
+&page-ref
+/direct_ads/*
+
+! Player miners
+.info^$script,third-party,domain=oload.info|oload.tv|openload.co|streamango.com|streamcherry.com
+
+! Prevent popup and popunder bypasses
+||google.com$popup
+/popunder-
+
+! Elements
+###player-ads
+##.ytp-ad-progress-list
+reddit.com##.promotedlink
