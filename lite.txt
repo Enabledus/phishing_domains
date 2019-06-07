@@ -53,6 +53,7 @@ reddit.com##.promotedlink
 ?push=
 ?id=
 ?t=
+&sid=
 &cep=
 &first_pool=
 &hac=
