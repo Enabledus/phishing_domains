@@ -9,3 +9,9 @@ ___
 The **Lite** filter can break some sites in exchange for the minimal ram footprint.
 
 **Domains** is like the usual filters you've seen before. It has got a list of tracking domains that it blocks.
+
+### Coming soon
+
+**Phishing** a list of known phishing domains that is update regularly.
+
+**Anti Google** focuses on blocking as many Google tracking attempts as possible in exchange of breaking some sites.
