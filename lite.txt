@@ -91,7 +91,7 @@ reddit.com##.promotedlink
 &bannerid=
 
 ! Experimental Script Blocking
-/*ads*.js
+/*ads.js
 /linkid.js
 /beacon.js
 
