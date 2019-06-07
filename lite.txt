@@ -47,3 +47,15 @@
 ###player-ads
 ##.ytp-ad-progress-list
 reddit.com##.promotedlink
+
+! Tracking parameters experimental
+&first_pool=
+&hac=
+&rst=
+&avms_sel=
+&md=
+&avms=
+&bas=
+&mc=
+&msd=
+&cid=
