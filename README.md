@@ -6,3 +6,6 @@ I have got several versions of it [Lite / Domains, so far]
 ___
 
 **Lite** is for really low end computers that can barely handle any filters, I haved focused on making it more based on patterns that most trackers have in common, rather than using a big domain list.
+The **Lite** filter can break some sites in exchange for the minimal ram footprint.
+
+**Domains** is like the usual filters you've seen before. It has got a list of tracking domains that it blocks.
