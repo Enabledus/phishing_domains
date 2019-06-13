@@ -1,2 +1,4 @@
 ||facebook.com
 ||fbcdn.com
+||fbsbx.com
+||atdmt.com
