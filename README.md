@@ -13,6 +13,8 @@ The **Lite** filter can be combined with different filters since it blocks what 
 
 **Fuck off filters** focuses on blocking as many tracking attempts as possible, in exchange of breaking most sites.
 
+**Crawled** is a compilation of crawled filters that we've found while crawling the web for trackers
+
 ### Coming soon
 
 **Phishing** is a list of known phishing domains that is update regularly.
