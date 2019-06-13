@@ -15,6 +15,6 @@ The **Lite** filter can be combined with different filters since it blocks what 
 
 **Phishing** is a list of known phishing domains that is update regularly.
 
-**Fuck off Google** focuses on blocking as many Google tracking attempts as possible, in exchange of breaking some sites.
+**Fuck off filters** focuses on blocking as many tracking attempts as possible, in exchange of breaking most sites.
 
 **Exploits** aims at defending against XSS'es and 0day exploits.
