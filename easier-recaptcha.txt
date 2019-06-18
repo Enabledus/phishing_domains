@@ -1,2 +1,2 @@
-||google.com$script
-||gstatic.com$script
+||google.com/recaptcha/^$important,third-party,script
+||gstatic.com/recaptcha/^$important,third-party,script
