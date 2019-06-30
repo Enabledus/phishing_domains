@@ -52,7 +52,6 @@
 &adsid=
 &campaignid=
 &bannerid=
-&sid=
 &tok=
 &pf=
 &st=
