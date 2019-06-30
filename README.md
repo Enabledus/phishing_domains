@@ -11,10 +11,11 @@ The **Lite** filter can be combined with different filters since it blocks what 
 
 **Domains** is like the usual filters you've seen before. It has got a list of tracking domains that it blocks.
 
-**Fuck off filters** focuses on blocking as many tracking attempts as possible, in exchange of breaking most sites.
+**Fuck off filters** (OUTDATED) focuses on blocking as many tracking attempts as possible, in exchange of breaking most sites.
 
 **Crawled** is a compilation of crawled filters that we've found while crawling the web for trackers
 
+**Speed Up** Focuses on website speed. If you're on a slow connection or a limited data plan, then this filter is for you.
 ### Coming soon
 
 **Phishing** is a list of known phishing domains that is update regularly.
