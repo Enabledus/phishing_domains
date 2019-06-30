@@ -18,6 +18,9 @@
 ?pid=$image
 /pixel*$image
 
+! Block useless stuff
+||googleapis.com/favicon.ico^
+
 ! They better respect their own parameters
 &noscript=1$script
 &noscript=true$script
