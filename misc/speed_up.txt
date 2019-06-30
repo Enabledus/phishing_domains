@@ -33,6 +33,7 @@
 ?zoneid=
 ?adform_pid
 ?pid=
+?token=
 &drf=
 &zoneid=
 &pr=
@@ -52,6 +53,13 @@
 &campaignid=
 &bannerid=
 &sid=
+&tok=
+&pf=
+&st=
+
+! Experimental Parameters (could break consent checkers)
+?status=nocookie$third-party
+?status=cookie$third-party
 
 ! Most widespread trackers
 ||platform.twitter.com^
@@ -69,6 +77,7 @@
 ||googleadservices.com^
 ||sharethrough.com^
 ||adservice.google.com
+||choice.microsoft.com
 
 ! Unbreak Twitch
 @@||amazon-adsystem.com/aax2/apstag.js$domain=twitch.tv
