@@ -25,3 +25,4 @@
 ||platform.twitter.com^
 ||analytics.twitter.com^
 ||google-analytics.com^
+||adnxs.com^
