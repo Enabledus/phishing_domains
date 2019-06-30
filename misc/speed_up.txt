@@ -118,7 +118,6 @@
 ! Stop domains from leaking your source url
 ?domain=$third-party,script
 ?url=$third-party,script
-||reddit.com/api/info.json?url=*$script
 
 ! Block social buttons
 ||addthis.com^$third-party
