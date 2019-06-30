@@ -96,9 +96,10 @@
 @@||amazon-adsystem.com/aax2/apstag.js$domain=twitch.tv
 @@||static.twitchcdn.net$third-party,xmlhttprequest
 
-! Stop Facebook, this is good for both privacy and speed
+! Stop big networks, this is good for both privacy and speed
 ! Keep in mind that this can break ex.. share buttons
 ||facebook.com^$third-party
+||yahoo.com^$third-party
 
 ! Well. This is just incase ampproject delivers something else
 ||cdn.ampproject.org$~script
