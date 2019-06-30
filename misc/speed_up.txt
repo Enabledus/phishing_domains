@@ -48,6 +48,10 @@
 &adform
 &token=
 &ss_click
+&adsid=
+&campaignid=
+&bannerid=
+&sid=
 
 ! Most widespread trackers
 ||platform.twitter.com^
