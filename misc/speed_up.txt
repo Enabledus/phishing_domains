@@ -39,6 +39,7 @@
 ||adsrvr.org^
 ||amazon-adsystem.com^
 ||googletagmanager.com^
+||googleadservices.com^
 ||adservice.google.com
 
 ! Unbreak Twitch
