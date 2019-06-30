@@ -35,6 +35,7 @@
 ||googlesyndication.com^
 ||connectad.io^
 ||firstimpression.io^
+||adsrvr.org^
 
 ! Well. This is just incase ampproject delivers something else
 ||cdn.ampproject.org$~script
