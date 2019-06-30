@@ -1,4 +1,4 @@
-! Speed up your webbrowsing or save data on your data plan with a few rules.
+! Speed up your webbrowsing or save data on your data plan with just a few rules.
 
 ! Blocks beacons,fonts,websockets & document requests from third parties
 ||*$third-party,document,font,websocket,document,other
@@ -40,6 +40,7 @@
 
 ! Unbreak Twitch
 @@||amazon-adsystem.com/aax2/apstag.js$domain=twitch.tv
+@@||static.twitchcdn.net$third-party,xmlhttprequest
 
 ! Stop Facebook, this is good for both privacy and speed
 ||facebook.com^$third-party
