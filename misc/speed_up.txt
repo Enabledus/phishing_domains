@@ -84,6 +84,7 @@
 @@||static.twitchcdn.net$third-party,xmlhttprequest
 
 ! Stop Facebook, this is good for both privacy and speed
+! Keep in mind that this can break ex.. share buttons
 ||facebook.com^$third-party
 
 ! Well. This is just incase ampproject delivers something else
