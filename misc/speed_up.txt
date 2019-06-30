@@ -103,6 +103,7 @@
 ! Stop big networks, this is good for both privacy and speed
 ! Keep in mind that this can break ex.. share buttons
 ||facebook.com^$third-party
+||facebook.net^$third-party
 ||yahoo.com^$third-party
 
 ! Well. This is just incase ampproject delivers something else
