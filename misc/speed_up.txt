@@ -73,6 +73,7 @@
 ||doubleclick.net^
 ||pub.network^
 ||googlesyndication.com^
+||iwanttodeliver.com^
 ||googletagservices.com^
 ||connectad.io^
 ||firstimpression.io^
