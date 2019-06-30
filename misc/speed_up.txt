@@ -99,6 +99,7 @@
 ||demdex.net^
 ||crazyegg.com^
 ||scorecardresearch.com^
+||trafficjunky.net^
 ||adservice.google.com
 ||choice.microsoft.com
 ||hotjar.com^$third-party
