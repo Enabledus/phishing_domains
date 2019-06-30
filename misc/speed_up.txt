@@ -103,10 +103,11 @@
 ||choice.microsoft.com
 ||hotjar.com^$third-party
 
-! Website Speed Analytics
+! Website Visitor Analytics
 ||speedcurve.com^$third-party
 ||betrad.com^$third-party
 ||newrelic.com^$third-party
+||ezoic.com^$third-party
 
 ! Unbreak Twitch
 @@||amazon-adsystem.com/aax2/apstag.js$domain=twitch.tv
