@@ -1,16 +1,7 @@
 ! Speed up your webbrowsing or save data on your data plan with a few rules.
 
-! Blocks beacons
-||*$other,third-party
-
-! Will break some sites
-||*$font,third-party
-
-! Let's stop websocket requests from 3rd parties
-||*$websocket,third-party
-
-! Block document request's from 3rd parties
-||*$document,third-party
+! Blocks beacons,fonts,websockets,csp_report & document requests from third parties
+||*$third-party,document,font,websocket,document,csp_report
 
 ! Blocks minor advertisers
 /js/ads.
@@ -24,3 +15,13 @@
 
 ! Block some image trackers
 ?pid=$image
+/pixel*$image
+
+! They better respect their own parameters
+&noscript=1$script
+&noscript=true$script
+
+! Most widespread trackers
+||platform.twitter.com^
+||analytics.twitter.com^
+||google-analytics.com^
