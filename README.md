@@ -17,7 +17,8 @@ The **Lite** filter can be combined with different filters since it blocks what 
 
 **Exploits** blocks a few patterns that some old school exploit kits followed. (Not recommended)
 
-**Speed Up** Focuses on website speed. If you're on a slow connection or a limited data plan, then this filter is for you.
+**Speed Up** Focuses on website speed. If you're on a slow connection or a limited data plan, then this filter is for you. It's better when combined with other filters, such as **EasyList**
+
 ### Coming soon
 
 **Phishing** is a list of known phishing domains that is update regularly.
