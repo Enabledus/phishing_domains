@@ -86,7 +86,6 @@
 ||aaxads.com^
 ||criteo.net^
 ||mnet-ad.net^
-||aaxads.com^
 ||truste.com^
 ||moatads.com^
 ||speedcurve.com^$third-party
