@@ -91,6 +91,7 @@
 ||mnet-ad.net^
 ||truste.com^
 ||moatads.com^
+||hotjar.com^
 ||speedcurve.com^$third-party
 ||adservice.google.com
 ||choice.microsoft.com
