@@ -10,8 +10,8 @@
 ||*static.*$xmlhttprequest,third-party
 
 ! Can block shell's that has managed to escape into unusual parts of a site
-/css/images/*$script
-/uploads/images/*$script
+/css/images/*$~stylesheet
+/uploads/images/*$~image
 
 ! Block some image trackers
 ?pid=$image
@@ -30,6 +30,7 @@
 ||pub.network^
 ||googlesyndication.com^
 ||connectad.io^
+||firstimpression.io^
 
 ! Well. This is just incase ampproject delivers something else
 ||cdn.ampproject.org$~script
