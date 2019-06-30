@@ -82,6 +82,13 @@
 ||propellerclick.com^
 ||ad4mat.net^
 ||criteo.com^
+||aaxads.com^
+||criteo.net^
+||mnet-ad.net^
+||aaxads.com^
+||truste.com^
+||moatads.com^
+||speedcurve.com^$third-party
 ||adservice.google.com
 ||choice.microsoft.com
 
