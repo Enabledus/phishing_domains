@@ -28,6 +28,7 @@
 ! The most used tracking parameters
 &zone_id=
 &site_id=
+?site_id=
 ?var=
 ?var=&popup
 ?ip=
@@ -97,6 +98,7 @@
 ||chartbeat.com^
 ||chartbeat.net^
 ||demdex.net^
+||trafficfactory.biz^
 ||crazyegg.com^
 ||scorecardresearch.com^
 ||trafficjunky.net^
