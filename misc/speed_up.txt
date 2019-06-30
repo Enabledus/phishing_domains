@@ -1,7 +1,7 @@
 ! Speed up your webbrowsing or save data on your data plan with just a few rules.
 
 ! Blocks beacons,fonts,websockets & document requests from third parties
-||*$third-party,document,font,websocket,document,other
+||*$third-party,document,font,websocket,other
 
 ! Blocks some advertising libraries
 /js/ads.
