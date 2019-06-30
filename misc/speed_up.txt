@@ -3,7 +3,7 @@
 ! Blocks beacons,fonts,websockets & document requests from third parties
 ||*$third-party,document,font,websocket,document,other
 
-! Blocks minor advertisers
+! Blocks some advertising libraries
 /js/ads.
 
 ! I don't know why. But I rarely see (static) domains do XHR requests, so better add it here.
