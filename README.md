@@ -15,6 +15,8 @@ The **Lite** filter can be combined with different filters since it blocks what 
 
 **Crawled** is a compilation of crawled filters that we've found while crawling the web for trackers
 
+**Exploits** blocks a few patterns that some old school exploit kits followed. (Not recommended)
+
 **Speed Up** Focuses on website speed. If you're on a slow connection or a limited data plan, then this filter is for you.
 ### Coming soon
 
