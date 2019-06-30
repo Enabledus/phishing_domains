@@ -36,6 +36,10 @@
 ||connectad.io^
 ||firstimpression.io^
 ||adsrvr.org^
+||amazon-adsystem.com^
+
+! Stop Facebook, this is good for both privacy and speed
+||facebook.com^$third-party
 
 ! Well. This is just incase ampproject delivers something else
 ||cdn.ampproject.org$~script
