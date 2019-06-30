@@ -10,7 +10,7 @@
 ! In rare occasions it breaks a few streaming websites.
 ||*static.*$xmlhttprequest,third-party
 
-! Can block shell's that has managed to escape into unusual parts of a site
+! Can block shell's that has managed to escape onto unusual parts of a site
 /css/images/*$~image
 /uploads/images/*$~image
 
