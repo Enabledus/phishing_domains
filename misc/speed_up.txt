@@ -21,6 +21,10 @@
 &noscript=1$script
 &noscript=true$script
 
+! The most used tracking parameters
+&zone_id=
+&site_id=
+
 ! Most widespread trackers
 ||platform.twitter.com^
 ||analytics.twitter.com^
