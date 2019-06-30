@@ -97,6 +97,7 @@
 ||chartbeat.com^
 ||chartbeat.net^
 ||demdex.net^
+||crazyegg.com^
 ||scorecardresearch.com^
 ||adservice.google.com
 ||choice.microsoft.com
@@ -141,6 +142,7 @@
 ||advertising.*
 ||adserver.*
 ||syndication.*
+||ads-*$third-party
 
 ! I Don't really like having 3rd party HTTP scripts running in the background.
 |http://$third-party,script
