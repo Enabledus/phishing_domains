@@ -18,7 +18,7 @@
 ?pid=$image
 /pixel*$image
 
-! Block unnessecary favicon's
+! Block unnecessary favicon's
 ||googleapis.com/favicon.ico^
 
 ! They better respect their own parameters
