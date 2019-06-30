@@ -26,3 +26,8 @@
 ||analytics.twitter.com^
 ||google-analytics.com^
 ||adnxs.com^
+
+! Advertising heuristic
+||ads.*
+||advertising.*
+||adserver.*
