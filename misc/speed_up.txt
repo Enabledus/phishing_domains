@@ -26,6 +26,13 @@
 ||analytics.twitter.com^
 ||google-analytics.com^
 ||adnxs.com^
+||doubleclick.net^
+||pub.network^
+||googlesyndication.com^
+||connectad.io^
+
+! Well. This is just incase ampproject delivers something else
+||cdn.ampproject.org$~script
 
 ! Advertising heuristic
 ||ads.*
