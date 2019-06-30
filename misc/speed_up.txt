@@ -76,6 +76,10 @@
 ||googletagmanager.com^
 ||googleadservices.com^
 ||sharethrough.com^
+||bebi.com^
+||mgid.com^
+||advertising.com^
+||propellerclick.com^
 ||adservice.google.com
 ||choice.microsoft.com
 
