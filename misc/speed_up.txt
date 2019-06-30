@@ -1,0 +1,23 @@
+! Speed up your webbrowsing or save data on your data plan with a few rules.
+
+! Blocks beacons
+||*$other,third-party
+
+! Will break some sites
+||*$font,third-party
+
+! Let's stop websocket requests from 3rd parties
+||*$websocket,third-party
+
+! Block document request's from 3rd parties
+||*$document,third-party
+
+! Blocks minor advertisers
+/js/ads.
+
+! I don't know why. But I rarely see (static) domains do XHR requests, so better add it here.
+||*static.*$xmlhttprequest,third-party
+
+! Can block shell's that has managed to escape into unusual parts of a site
+/css/images/*$script
+/uploads/images/*$script
