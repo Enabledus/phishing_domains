@@ -98,3 +98,4 @@
 ||ads.*
 ||advertising.*
 ||adserver.*
+||syndication.*
