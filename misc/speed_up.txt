@@ -40,6 +40,7 @@
 &popup=
 &lifetime=
 &ad=
+&cid=
 &puid=
 &view=ad&
 &popunder=
@@ -98,6 +99,13 @@
 ! Block stuff that doesnt follow their own subdomain
 ||image.*$~image
 ||images.*$~image
+
+! Block well known tracking directories
+/AdExchange/*
+/adsid/*
+
+! Experimental parameters
+?domain=$third-party,script
 
 ! Advertising heuristic
 ||ads.*
