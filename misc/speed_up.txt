@@ -21,3 +21,6 @@
 ! Can block shell's that has managed to escape into unusual parts of a site
 /css/images/*$script
 /uploads/images/*$script
+
+! Block some image trackers
+?pid=$image
