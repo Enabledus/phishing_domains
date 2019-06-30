@@ -106,5 +106,5 @@
 ||adserver.*
 ||syndication.*
 
-! I Don't really like having HTTP websites connecting in the background.
+! I Don't really like having 3rd party HTTP scripts running in the background.
 |http://$third-party,script
