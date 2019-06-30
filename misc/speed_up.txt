@@ -91,11 +91,21 @@
 ||mnet-ad.net^
 ||truste.com^
 ||moatads.com^
-||hotjar.com^$third-party
-||speedcurve.com^$third-party
-||betrad.com^$third-party
+||mookie1.com^
+||indexww.com^
+||ml314.com^
+||chartbeat.com^
+||chartbeat.net^
+||demdex.net^
+||scorecardresearch.com^
 ||adservice.google.com
 ||choice.microsoft.com
+||hotjar.com^$third-party
+
+! Website Speed Analytics
+||speedcurve.com^$third-party
+||betrad.com^$third-party
+||newrelic.com^$third-party
 
 ! Unbreak Twitch
 @@||amazon-adsystem.com/aax2/apstag.js$domain=twitch.tv
@@ -106,6 +116,7 @@
 ||facebook.com^$third-party
 ||facebook.net^$third-party
 ||yahoo.com^$third-party
+||pinterest.com^$third-party
 
 ! Well. This is just incase ampproject delivers something else
 ||cdn.ampproject.org$~script
