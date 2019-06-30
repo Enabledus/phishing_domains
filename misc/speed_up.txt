@@ -93,6 +93,7 @@
 ||moatads.com^
 ||hotjar.com^$third-party
 ||speedcurve.com^$third-party
+||betrad.com^$third-party
 ||adservice.google.com
 ||choice.microsoft.com
 
