@@ -99,3 +99,6 @@
 ||advertising.*
 ||adserver.*
 ||syndication.*
+
+! I Don't really like having HTTP websites connecting in the background.
+|http://$third-party,script
