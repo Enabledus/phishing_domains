@@ -38,6 +38,8 @@
 ||firstimpression.io^
 ||adsrvr.org^
 ||amazon-adsystem.com^
+||googletagmanager.com^
+||adservice.google.com
 
 ! Unbreak Twitch
 @@||amazon-adsystem.com/aax2/apstag.js$domain=twitch.tv
