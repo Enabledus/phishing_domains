@@ -115,8 +115,12 @@
 /AdExchange/*
 /adsid/*
 
-! Experimental parameters
+! Stop domains from leaking your source domain
 ?domain=$third-party,script
+||reddit.com/api/info.json?url=*$script
+
+! Block social buttons
+||addthis.com^$third-party
 
 ! Advertising heuristic
 ||ads.*
