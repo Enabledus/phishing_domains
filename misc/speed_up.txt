@@ -52,6 +52,10 @@
 ! Well. This is just incase ampproject delivers something else
 ||cdn.ampproject.org$~script
 
+! Block stuff that doesnt follow their own subdomain
+||image.*.*$~image
+||images.*.*$~image
+
 ! Advertising heuristic
 ||ads.*
 ||advertising.*
