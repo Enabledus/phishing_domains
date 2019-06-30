@@ -25,6 +25,29 @@
 ! The most used tracking parameters
 &zone_id=
 &site_id=
+?var=
+?var=&popup
+?ip=
+?h=
+?adnxs
+?zoneid=
+?adform_pid
+?pid=
+&drf=
+&zoneid=
+&pr=
+&popup=
+&lifetime=
+&ad=
+&puid=
+&view=ad&
+&popunder=
+&googleadword=
+&adurl=
+&var=
+&adform
+&token=
+&ss_click
 
 ! Most widespread trackers
 ||platform.twitter.com^
