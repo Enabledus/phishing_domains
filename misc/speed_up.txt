@@ -69,6 +69,7 @@
 ||doubleclick.net^
 ||pub.network^
 ||googlesyndication.com^
+||googletagservices.com^
 ||connectad.io^
 ||firstimpression.io^
 ||adsrvr.org^
