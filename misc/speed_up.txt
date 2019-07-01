@@ -107,6 +107,7 @@
 ||liadm.com^
 ||yacurlik.com^
 ||adskeeper.co.uk^
+||bluekai.com^
 ||popads.net^
 ||adsco.re^
 ||ad4mat.net^
