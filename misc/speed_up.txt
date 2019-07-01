@@ -7,7 +7,7 @@
 /js/ads.
 /advertising.js
 /adsWrapper.js*
-/track.gif/*
+/track.gif*
 /pop.js
 
 ! I don't know why. But I rarely see (static) domains do XHR requests, so better add it here.
@@ -36,6 +36,7 @@
 ?var=&popup
 ?ip=
 ?h=
+?hc=
 ?adnxs=
 ?rzi=
 ?puid=
@@ -52,6 +53,10 @@
 &lifetime=
 &ad=
 &cid=
+&si=
+&ci=
+&pi=
+&advt=
 &puid=
 &minBid=
 &view=ad&
@@ -111,11 +116,13 @@
 ||adskeeper.co.uk^
 ||bluekai.com^
 ||juicyads.com^
+||dc-storm.com^
 ||popads.net^
 ||adsco.re^
 ||ad4mat.net^
 ||smartadserver.com^
 ||exosrv.com^
+||exelator.com^
 ||criteo.com^
 ||aaxads.com^
 ||ncaudienceexchange.com^
@@ -133,6 +140,8 @@
 ||hs-analytics.net^
 ||ml314.com^
 ||chartbeat.com^
+||ensighten.com^
+||omtrdc.net^
 ||chartbeat.net^
 ||demdex.net^
 ||trafficfactory.biz^
@@ -144,6 +153,9 @@
 ||ip-api.com^$third-party
 ||adservice.google.com
 ||choice.microsoft.com
+/clicktale.
+/maxymiser.
+/kissmetrics.
 
 ! Website Visitor Analytics
 ||speedcurve.com^$third-party
@@ -173,6 +185,7 @@
 ||pinterest.com^$third-party
 ||bing.com^$third-party
 ||yandex.ru^$third-party
+||linkedin.com^$third-party
 ||youtube.com/api/stats/qoe?
 
 ! Well. This is just incase ampproject delivers something else
