@@ -122,6 +122,7 @@
 ||tapad.com^$third-party
 ||bugsnag.com^$third-party
 ||hotjar.com^$third-party
+||visualwebsiteoptimizer.com^$third-party
 
 ! Unbreak
 @@||amazon-adsystem.com/aax2/apstag.js$domain=twitch.tv
