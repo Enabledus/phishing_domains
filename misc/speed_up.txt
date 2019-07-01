@@ -124,7 +124,7 @@
 ||popads.net^
 ||adsco.re^
 ||ad4mat.net^
-||smartadserver.com^
+! ||smartadserver.com^
 ||exosrv.com^
 ||exelator.com^
 ||criteo.com^
