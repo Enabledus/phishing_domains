@@ -52,6 +52,7 @@
 &ad=
 &cid=
 &puid=
+&minBid=
 &view=ad&
 &popunder=
 &googleadword=
@@ -187,6 +188,7 @@
 ?page-url=
 ?site_id=
 ?pageview:url=
+&documentRef=
 
 ! Block social buttons
 ||addthis.com^$third-party
