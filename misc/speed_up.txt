@@ -185,10 +185,10 @@
 
 ! Unbreak
 @@||amazon-adsystem.com/aax2/apstag.js$domain=twitch.tv
-@@||static.twitchcdn.net$third-party,xmlhttprequest
+@@||static.twitchcdn.net$third-party,domain=twitch.tv,xmlhttprequest
 @@||gateway.discord.gg$third-party,websocket
-@@||usher.ttvnw.net/api/channel/hls/*token=$third-party,xmlhttprequest
-@@||googlevideo.com/videoplayback?expire=$third-party,xmlhttprequest
+@@||usher.ttvnw.net/api/channel/hls/*token=$third-party,domain=twitch.tv,xmlhttprequest
+@@||googlevideo.com/videoplayback?expire=$third-party,domain=youtube.com,xmlhttprequest
 
 ! Stop big networks, this is good for both privacy and speed
 ! Keep in mind that this can break ex.. share buttons
