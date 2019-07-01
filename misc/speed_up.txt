@@ -104,6 +104,9 @@
 ||googletagmanager.com^
 ||googleadservices.com^
 ||parsely.com^
+||adtng.com^
+||cbbp1.com^
+||etahub.com^
 ||go-mpulse.net^
 ||keywee.co^
 ||bebi.com^
