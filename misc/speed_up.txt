@@ -1,4 +1,4 @@
-! Speed up your webbrowsing or save data on your data plan with just a few rules.
+! Speed up your webbrowsing and save data on your data plan with just a few rules.
 
 ! Blocks beacons,fonts,websockets & document requests from third parties
 ||*$third-party,document,font,websocket,other
@@ -150,6 +150,7 @@
 ||adserver.*
 ||syndication.*
 ||ads-*$third-party
+||*-ads*$third-party
 
 ! I Don't really like having 3rd party HTTP scripts running in the background.
 |http://$third-party,script
