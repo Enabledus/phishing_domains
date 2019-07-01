@@ -180,6 +180,9 @@
 ||amplitude.com^$third-party
 ||heapanalytics.com^$third-party
 
+! 1st party junk
+||di.phcdn.com/www-static/js/promo-banner.js
+
 ! Unbreak
 @@||amazon-adsystem.com/aax2/apstag.js$domain=twitch.tv
 @@||static.twitchcdn.net$third-party,xmlhttprequest
