@@ -105,6 +105,7 @@
 ||agkn.com^
 ||liadm.com^
 ||yacurlik.com^
+||adskeeper.co.uk^
 ||popads.net^
 ||adsco.re^
 ||ad4mat.net^
