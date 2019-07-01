@@ -75,6 +75,7 @@
 &bannerid=
 &tok=
 &pf=
+&aid=
 &st=
 &ip=
 
