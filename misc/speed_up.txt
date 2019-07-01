@@ -34,9 +34,10 @@
 ?var=&popup
 ?ip=
 ?h=
-?adnxs
+?adnxs=
+?puid=
 ?zoneid=
-?adform_pid
+?adform_pid=
 ?pid=
 ?token=
 &drf=
