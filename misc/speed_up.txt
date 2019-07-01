@@ -150,6 +150,7 @@
 /AdExchange/*
 /adsid/*
 /ads/*
+/pagead/*
 
 ! Stop domains from leaking your source url
 ?domain=$third-party,script
