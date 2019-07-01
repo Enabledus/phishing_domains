@@ -40,11 +40,13 @@
 ?puid=
 ?zoneid=
 ?adform_pid=
+?traffic_source=
 ?pid=
 ?token=
 &drf=
 &zoneid=
 &pr=
+&compaign=
 &popup=
 &lifetime=
 &ad=
