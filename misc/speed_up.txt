@@ -147,6 +147,7 @@
 &site_id=
 ?site_id=
 &idsite=
+&dn=
 
 ! Block social buttons
 ||addthis.com^$third-party
