@@ -79,6 +79,7 @@
 ||firstimpression.io^
 ||adsrvr.org^
 ||amazon-adsystem.com^
+||atwola.com^
 ||googletagmanager.com^
 ||googleadservices.com^
 ||sharethrough.com^
@@ -136,6 +137,7 @@
 ! Block well known tracking directories
 /AdExchange/*
 /adsid/*
+/ads/*
 
 ! Stop domains from leaking your source url
 ?domain=$third-party,script
