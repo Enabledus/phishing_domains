@@ -85,7 +85,6 @@
 ||atwola.com^
 ||googletagmanager.com^
 ||googleadservices.com^
-||sharethrough.com^
 ||parsely.com^
 ||bebi.com^
 ||mgid.com^
@@ -115,6 +114,7 @@
 ||scorecardresearch.com^
 ||trafficjunky.net^
 ||trackcmp.net^
+||ad-srv.net
 ||ip-api.com^$third-party
 ||adservice.google.com
 ||choice.microsoft.com
@@ -169,6 +169,8 @@
 
 ! Block social buttons
 ||addthis.com^$third-party
+||sharethrough.com^$third-party
+||sharethis.com^$third-party
 
 ! Advertising heuristic
 ||ads.*
