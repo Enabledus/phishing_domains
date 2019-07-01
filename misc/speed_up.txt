@@ -113,10 +113,11 @@
 ||newrelic.com^$third-party
 ||ezoic.com^$third-party
 
-! Unbreak Twitch
+! Unbreak
 @@||amazon-adsystem.com/aax2/apstag.js$domain=twitch.tv
 @@||static.twitchcdn.net$third-party,xmlhttprequest
 @@||gateway.discord.gg$third-party,websocket
+@@||usher.ttvnw.net/api/channel/hls/*token=*$third-party,xmlhttprequest
 
 ! Stop big networks, this is good for both privacy and speed
 ! Keep in mind that this can break ex.. share buttons
