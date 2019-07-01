@@ -171,7 +171,7 @@
 ||adserver.*
 ||syndication.*
 ||ads-*$third-party
-||*-ads*$third-party
+||*-ads.*$third-party
 
 ! I Don't really like having 3rd party HTTP scripts running in the background.
 |http://$third-party,script
