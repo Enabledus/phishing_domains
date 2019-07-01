@@ -89,6 +89,7 @@
 ||googleadservices.com^
 ||parsely.com^
 ||bebi.com^
+||media.net^
 ||mgid.com^
 ||advertising.com^
 ||propellerclick.com^
