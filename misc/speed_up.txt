@@ -96,7 +96,7 @@
 ||googletagservices.com^
 ||connectad.io^
 ||firstimpression.io^
-||adsrvr.org^
+! ||adsrvr.org^
 ||amazon-adsystem.com^
 ||atwola.com^
 ||rtmark.net^
