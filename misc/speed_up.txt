@@ -110,6 +110,7 @@
 ||media.net^
 ||mgid.com^
 ||advertising.com^
+||adsby.bidtheatre.com^
 ||amung.us^
 ||propellerclick.com^
 ||ero-advertising.com^
