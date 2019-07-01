@@ -148,6 +148,7 @@
 ||hotjar.com^$third-party
 ||visualwebsiteoptimizer.com^$third-party
 ||pingdom.net^$third-party
+||amplitude.com^$third-party
 
 ! Unbreak
 @@||amazon-adsystem.com/aax2/apstag.js$domain=twitch.tv
