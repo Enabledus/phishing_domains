@@ -152,7 +152,7 @@
 ||scorecardresearch.com^
 ||trafficjunky.net^
 ||trackcmp.net^
-||ad-srv.net^
+! ||ad-srv.net^
 ||powerlinks.com^$third-party
 ||ip-api.com^$third-party
 ||adservice.google.com
@@ -230,11 +230,11 @@
 ! Advertising heuristic
 ||ads.*
 ||advertising.*
-||adserver.*
+! ||adserver.*
 ||syndication.*
 ||ads-*$third-party
 ||*-ads.*$third-party
-||*ad*rvr.*
+||*ad*rv*r.*
 
 ! I Don't really like having 3rd party HTTP scripts running in the background.
 |http://$third-party,script,xmlhttprequest
