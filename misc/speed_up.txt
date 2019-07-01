@@ -128,7 +128,7 @@
 ||33across.com^
 ||mookie1.com^
 ||indexww.com^
-||heapanalytics.com^
+||hs-analytics.net^
 ||ml314.com^
 ||chartbeat.com^
 ||chartbeat.net^
@@ -154,6 +154,7 @@
 ||visualwebsiteoptimizer.com^$third-party
 ||pingdom.net^$third-party
 ||amplitude.com^$third-party
+||heapanalytics.com^$third-party
 
 ! Unbreak
 @@||amazon-adsystem.com/aax2/apstag.js$domain=twitch.tv
@@ -215,4 +216,4 @@
 ||*-ads.*$third-party
 
 ! I Don't really like having 3rd party HTTP scripts running in the background.
-|http://$third-party,script
+|http://$third-party,script,xmlhttprequest
