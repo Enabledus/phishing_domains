@@ -7,6 +7,7 @@
 /js/ads.
 /advertising.js
 /adsWrapper.js*
+/track.gif/*
 
 ! I don't know why. But I rarely see (static) domains do XHR requests, so better add it here.
 ! In rare occasions it breaks a few streaming websites.
@@ -161,6 +162,7 @@
 ?site_id=
 &idsite=
 &dn=
+?pageview:url=
 
 ! Block social buttons
 ||addthis.com^$third-party
