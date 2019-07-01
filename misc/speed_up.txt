@@ -104,6 +104,8 @@
 ||agkn.com^
 ||liadm.com^
 ||yacurlik.com^
+||popads.net^
+||adsco.re^
 ||ad4mat.net^
 ||smartadserver.com^
 ||criteo.com^
