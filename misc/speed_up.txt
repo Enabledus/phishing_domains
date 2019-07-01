@@ -180,7 +180,7 @@
 ||amplitude.com^$third-party
 ||heapanalytics.com^$third-party
 
-! 1st party junk
+! Website junk
 ||ci.phncdn.com/www-static/js/promo-banner.js*
 
 ! Unbreak
