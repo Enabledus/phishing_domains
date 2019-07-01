@@ -103,6 +103,8 @@
 ||googletagmanager.com^
 ||googleadservices.com^
 ||parsely.com^
+||go-mpulse.net^
+||keywee.co^
 ||bebi.com^
 ||media.net^
 ||mgid.com^
@@ -132,6 +134,7 @@
 ||truste.com^
 ||otefauks.link^
 ||moatads.com^
+||bidswitch.net^
 ||33across.com^
 ||outbrain.com^
 ||outbrainimg.com^
@@ -150,6 +153,7 @@
 ||trafficjunky.net^
 ||trackcmp.net^
 ||ad-srv.net
+||powerlinks.com^$third-party
 ||ip-api.com^$third-party
 ||adservice.google.com
 ||choice.microsoft.com
@@ -229,6 +233,7 @@
 ||syndication.*
 ||ads-*$third-party
 ||*-ads.*$third-party
+||*ad*rvr.*
 
 ! I Don't really like having 3rd party HTTP scripts running in the background.
 |http://$third-party,script,xmlhttprequest
