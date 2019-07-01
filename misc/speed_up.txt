@@ -23,6 +23,7 @@
 
 ! Block unnecessary favicon's
 ||googleapis.com/favicon.ico^
+||google.com/favicon.ico^$third-party
 
 ! They better respect their own parameters
 &noscript=1$script
