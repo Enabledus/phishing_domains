@@ -238,5 +238,9 @@
 ||*-ads.*$third-party
 ||*ad*rv*r*.*
 
+! Crypto jackers
+||webminepool.com
+||crypto*.*.*$websocket
+
 ! I Don't really like having 3rd party HTTP scripts running in the background.
 |http://$third-party,script,xmlhttprequest
