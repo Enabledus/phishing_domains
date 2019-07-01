@@ -76,6 +76,7 @@
 ! Most widespread trackers
 ||platform.twitter.com^
 ||analytics.twitter.com^
+||analytics.codigo.se^
 ||google-analytics.com^
 ||adnxs.com^
 ||doubleclick.net^
@@ -98,6 +99,7 @@
 ||propellerclick.com^
 ||agkn.com^
 ||liadm.com^
+||yacurlik.com^
 ||ad4mat.net^
 ||smartadserver.com^
 ||criteo.com^
@@ -168,12 +170,14 @@
 ! Stop domains from leaking your source url
 ?domain=$third-party,script
 ?url=$third-party,script
+&pl=$third-party,script
 &u=$third-party
+&page-ref=
+&page-url=
 &site_id=
 ?site_id=
 &idsite=
 &dn=
-&pl=
 ?pageview:url=
 
 ! Block social buttons
