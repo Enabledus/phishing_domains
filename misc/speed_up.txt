@@ -29,8 +29,6 @@
 
 ! The most used tracking parameters
 &zone_id=
-&site_id=
-?site_id=
 ?var=
 ?var=&popup
 ?ip=
@@ -53,7 +51,6 @@
 &googleadword=
 &adurl=
 &var=
-&idsite=
 &plid=
 &adform
 &token=
@@ -147,6 +144,9 @@
 ! Stop domains from leaking your source url
 ?domain=$third-party,script
 ?url=$third-party,script
+&site_id=
+?site_id=
+&idsite=
 
 ! Block social buttons
 ||addthis.com^$third-party
