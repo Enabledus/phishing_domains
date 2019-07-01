@@ -154,6 +154,7 @@
 ||yahoo.com^$third-party
 ||pinterest.com^$third-party
 ||bing.com^$third-party
+||yandex.ru^$third-party
 
 ! Well. This is just incase ampproject delivers something else
 ||cdn.ampproject.org$~script
@@ -176,9 +177,10 @@
 &page-ref=
 &page-url=
 &site_id=
-?site_id=
 &idsite=
 &dn=
+?page-url=
+?site_id=
 ?pageview:url=
 
 ! Block social buttons
