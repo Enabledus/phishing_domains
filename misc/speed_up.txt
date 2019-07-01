@@ -61,6 +61,7 @@
 &tok=
 &pf=
 &st=
+&ip=
 
 ! Experimental Parameters (could break consent checkers)
 ?status=nocookie$third-party
@@ -155,6 +156,7 @@
 ! Stop domains from leaking your source url
 ?domain=$third-party,script
 ?url=$third-party,script
+&u=$third-party
 &site_id=
 ?site_id=
 &idsite=
