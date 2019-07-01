@@ -152,7 +152,7 @@
 ||scorecardresearch.com^
 ||trafficjunky.net^
 ||trackcmp.net^
-||ad-srv.net
+||ad-srv.net^
 ||powerlinks.com^$third-party
 ||ip-api.com^$third-party
 ||adservice.google.com
@@ -160,6 +160,7 @@
 /clicktale.
 /maxymiser.
 /kissmetrics.
+/weborama.
 
 ! Website Visitor Analytics
 ||speedcurve.com^$third-party
