@@ -184,6 +184,7 @@
 ?url=$third-party,script
 &pl=$third-party,script
 &u=$third-party
+&phint=$third-party
 &page-ref=
 &page-url=
 &site_id=
