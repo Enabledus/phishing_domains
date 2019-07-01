@@ -36,6 +36,7 @@
 ?ip=
 ?h=
 ?adnxs=
+?rzi=
 ?puid=
 ?zoneid=
 ?adform_pid=
@@ -52,6 +53,7 @@
 &view=ad&
 &popunder=
 &googleadword=
+&rsz=
 &adurl=
 &var=
 &plid=
