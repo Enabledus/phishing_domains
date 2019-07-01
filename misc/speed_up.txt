@@ -126,6 +126,8 @@
 ||otefauks.link^
 ||moatads.com^
 ||33across.com^
+||outbrain.com^
+||outbrainimg.com^
 ||mookie1.com^
 ||indexww.com^
 ||hs-analytics.net^
