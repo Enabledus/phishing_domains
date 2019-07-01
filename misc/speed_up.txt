@@ -53,6 +53,8 @@
 &googleadword=
 &adurl=
 &var=
+&idsite=
+&plid=
 &adform
 &token=
 &ss_click
@@ -85,6 +87,7 @@
 ||googletagmanager.com^
 ||googleadservices.com^
 ||sharethrough.com^
+||parsely.com^
 ||bebi.com^
 ||mgid.com^
 ||advertising.com^
