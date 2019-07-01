@@ -67,6 +67,7 @@
 
 ! Experimental Parameters (could break consent checkers)
 ?status=nocookie$third-party
+?status=no_cookie$third-party
 ?status=cookie$third-party
 
 ! Most widespread trackers
