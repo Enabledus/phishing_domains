@@ -94,8 +94,11 @@
 ||agkn.com^
 ||liadm.com^
 ||ad4mat.net^
+||smartadserver.com^
 ||criteo.com^
 ||aaxads.com^
+||ncaudienceexchange.com^
+||mathtag.com^
 ||criteo.net^
 ||mnet-ad.net^
 ||truste.com^
