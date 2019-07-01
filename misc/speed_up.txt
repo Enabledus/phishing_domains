@@ -166,6 +166,7 @@
 ||pinterest.com^$third-party
 ||bing.com^$third-party
 ||yandex.ru^$third-party
+||youtube.com/api/stats/qoe?
 
 ! Well. This is just incase ampproject delivers something else
 ||cdn.ampproject.org$~script
