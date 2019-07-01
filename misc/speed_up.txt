@@ -181,7 +181,7 @@
 ||heapanalytics.com^$third-party
 
 ! 1st party junk
-||ci.phcdn.com/www-static/js/promo-banner.js*
+||ci.phncdn.com/www-static/js/promo-banner.js*
 
 ! Unbreak
 @@||amazon-adsystem.com/aax2/apstag.js$domain=twitch.tv
