@@ -185,7 +185,8 @@
 ||heapanalytics.com^$third-party
 
 ! Website junk
-||ci.phncdn.com/www-static/js/promo-banner.js*
+||phncdn.com/www-static/js/promo-banner.js*^$script
+||trk.vidible.tv/trk/ad-request.gif*$image
 
 ! Unbreak
 @@||amazon-adsystem.com/aax2/apstag.js$domain=twitch.tv
