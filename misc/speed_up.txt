@@ -22,6 +22,9 @@
 ! ?pid=$image (?pid=) is already in the tracking parameters
 /pixel*$image
 
+! Block fake images
+/*.gif?*$~image
+
 ! Block unnecessary favicon's
 ||googleapis.com/favicon.ico^
 ||google.com/favicon.ico^$third-party
