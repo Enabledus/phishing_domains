@@ -9,6 +9,7 @@
 /adsWrapper.js*
 /track.gif*
 /pop.js
+/ads/?*
 
 ! I don't know why. But I rarely see (static) domains do XHR requests, so better add it here.
 ! In rare occasions it breaks a few streaming websites.
