@@ -208,6 +208,7 @@
 @@||usher.ttvnw.net/api/channel/hls/*token=$third-party,domain=twitch.tv,xmlhttprequest
 @@||gateway.discord.gg$third-party,websocket
 @@||googlevideo.com/videoplayback?expire=$third-party,xmlhttprequest
+@@||video-edge-c55eb4.arn03.abs.hls.ttvnw.net/v1/segment/$third-party,xmlhttprequest
 
 ! Stop big networks, this is good for both privacy and speed
 ! Keep in mind that this can break ex.. share buttons
