@@ -9,6 +9,7 @@
 /adsWrapper.js*
 /track.gif*
 /pop.js
+/px.gif?
 
 ! I don't know why. But I rarely see (static) domains do XHR requests, so better add it here.
 ! In rare occasions it breaks a few streaming websites.
@@ -185,10 +186,21 @@
 ||pingdom.net^$third-party
 ||amplitude.com^$third-party
 ||heapanalytics.com^$third-party
+||vk.com^$third-party
 
 ! Website junk
 ||phncdn.com/www-static/js/promo-banner.js^$script
 ||trk.vidible.tv/trk/ad-request.gif*$image
+||duckduckgo.com/t/
+||google.*/gen_204?$other
+||google.*/log204?$xmlhttprequest
+||google.com/pagead/
+||youtube.com/api/stats/qoe?
+||client-event-reporter.twitch.tv^
+||bing.com/fd/ls/$xmlhttprequest
+||bing.com/fd/ls/$image
+||yahoo.com/beacon/
+||yahoo.com/_td_api/beacon/
 
 ! Unbreak
 @@||amazon-adsystem.com/aax2/apstag.js$domain=twitch.tv
