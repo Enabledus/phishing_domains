@@ -164,6 +164,7 @@
 ! ||ad-srv.net^
 ||powerlinks.com^$third-party
 ||ip-api.com^$third-party
+||freegeoip.app^$third-party
 ||adservice.google.com
 ||choice.microsoft.com
 /clicktale.
