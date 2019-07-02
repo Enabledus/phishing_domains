@@ -19,7 +19,7 @@
 /uploads/images/*$~image
 
 ! Block some image trackers
-?pid=$image
+! ?pid=$image (?pid=) is already in the tracking parameters
 /pixel*$image
 
 ! Block unnecessary favicon's
