@@ -28,6 +28,7 @@
 ! Block unnecessary favicon's
 ||googleapis.com/favicon.ico^
 ||google.com/favicon.ico^$third-party
+||delivery.vidible.tv/favicon.ico
 
 ! They better respect their own parameters
 &noscript=1$script
