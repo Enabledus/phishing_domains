@@ -72,7 +72,7 @@
 &cep=
 &plid=
 &adform
-&token=
+! &token= Breaks some sites
 &ss_click
 &adsid=
 &campaignid=
