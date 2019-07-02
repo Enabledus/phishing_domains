@@ -185,7 +185,7 @@
 ||heapanalytics.com^$third-party
 
 ! Website junk
-||phncdn.com/www-static/js/promo-banner.js*^$script
+||phncdn.com/www-static/js/promo-banner.js^$script
 ||trk.vidible.tv/trk/ad-request.gif*$image
 
 ! Unbreak
