@@ -120,7 +120,6 @@
 ||bebi.com^
 ||media.net^
 ||quantserve.com^
-||analytics.ecosia.org^
 ||mgid.com^
 ||advertising.com^
 ||skimresources.com^
@@ -211,6 +210,8 @@
 ||amazon.com/ah/ajax/record-impressions^$xmlhttprequest
 ||startpage.com/pelp?
 ||startpage.com/do/smt?
+||graph.instagram.com^
+||analytics.ecosia.org^
 
 ! Unbreak
 @@||amazon-adsystem.com/aax2/apstag.js$domain=twitch.tv
