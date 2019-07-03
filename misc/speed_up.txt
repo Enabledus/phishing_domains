@@ -3,13 +3,14 @@
 ! Blocks beacons,fonts,websockets & document requests from third parties
 ||*$third-party,document,font,websocket,other
 
-! Blocks some well known advertising script path's
+! Blocks some common advertising script path's
 /js/ads.
 /advertising.js
 /adsWrapper.js*
 /track.gif*
 /pop.js
 /px.gif?
+/hc/tracking/*
 
 ! I don't know why. But I rarely see (static) domains do XHR requests, so better add it here.
 ! In rare occasions it breaks a few streaming websites.
