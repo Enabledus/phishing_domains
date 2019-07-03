@@ -118,6 +118,7 @@
 ||bebi.com^
 ||media.net^
 ||quantserve.com^
+||analytics.ecosia.org^
 ||mgid.com^
 ||advertising.com^
 ||skimresources.com^
