@@ -41,6 +41,7 @@
 ?var=&popup
 ?ip=
 ?h=
+?adtype=
 ?hc=
 ?adnxs=
 ?rzi=
@@ -205,6 +206,8 @@
 ||yandex.ru/clck/click/
 ||amazon.com/gp/aq-feedback/lazyLoad/handler/af-link-handler.html^$xmlhttprequest
 ||amazon.com/ah/ajax/record-impressions^$xmlhttprequest
+||startpage.com/pelp?
+||startpage.com/do/smt?
 
 ! Unbreak
 @@||amazon-adsystem.com/aax2/apstag.js$domain=twitch.tv
