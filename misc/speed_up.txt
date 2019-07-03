@@ -265,7 +265,7 @@
 ||syndication.*
 ||ads-*$third-party
 ||*-ads.*$third-party
-/*ad*rv*r*.*
+||*ad*rv*r*.*
 
 ! Crypto jackers
 ||webminepool.com
