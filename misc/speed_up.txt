@@ -201,6 +201,7 @@
 ||bing.com/fd/ls/$image
 ||yahoo.com/beacon/
 ||yahoo.com/_td_api/beacon/
+||yandex.ru/clck/click/
 
 ! Unbreak
 @@||amazon-adsystem.com/aax2/apstag.js$domain=twitch.tv
