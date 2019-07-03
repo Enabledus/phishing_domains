@@ -203,8 +203,8 @@
 ||yahoo.com/beacon/
 ||yahoo.com/_td_api/beacon/
 ||yandex.ru/clck/click/
-||amazon.com/gp/aq-feedback/lazyLoad/handler/af-link-handler.html^
-||amazon.com/ah/ajax/record-impressions^
+||amazon.com/gp/aq-feedback/lazyLoad/handler/af-link-handler.html^$xmlhttprequest
+||amazon.com/ah/ajax/record-impressions^$xmlhttprequest
 
 ! Unbreak
 @@||amazon-adsystem.com/aax2/apstag.js$domain=twitch.tv
