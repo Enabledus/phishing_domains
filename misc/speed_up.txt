@@ -116,6 +116,7 @@
 ||keywee.co^
 ||bebi.com^
 ||media.net^
+||quantserve.com^
 ||mgid.com^
 ||advertising.com^
 ||skimresources.com^
