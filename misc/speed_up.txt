@@ -229,13 +229,15 @@
 ||facebook.com^$third-party
 ||facebook.net^$third-party
 ||yahoo.com^$third-party
-||pinterest.com^$third-party
 ||bing.com^$third-party
 ||yandex.ru^$third-party
 ||snapchat.com^$third-party
 ||linkedin.com^$third-party
 ! Well. This is just incase ampproject delivers something else
 ||cdn.ampproject.org$~script
+! Experimental big networks
+||instagram.com^$third-party
+||pinterest.com^$third-party
 
 ! Block stuff that doesnt follow their own subdomain
 ||image.*$~image
