@@ -222,6 +222,7 @@
 ||analytics.ecosia.org^
 ||ad.altervista.org^
 ||youtube.com/api/stats/qoe?
+||youtube.com/*_204?$image
 
 ! Unbreak
 @@||amazon-adsystem.com/aax2/apstag.js$domain=twitch.tv
