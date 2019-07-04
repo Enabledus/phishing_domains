@@ -136,8 +136,10 @@
 ||tamgrt.com^
 ||bluekai.com^
 ||juicyads.com^
+||adtech.de^
 ||dc-storm.com^
 ||popads.net^
+||oneadserver.aol.com^
 ||adsco.re^
 ||ad4mat.net^
 ||smartadserver.com^
