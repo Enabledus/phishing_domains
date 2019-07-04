@@ -105,7 +105,7 @@
 ||googletagservices.com^
 ||connectad.io^
 ||firstimpression.io^
-! ||adsrvr.org^
+||adsrvr.org^
 ||amazon-adsystem.com^
 ||atwola.com^
 ||rtmark.net^
@@ -139,7 +139,7 @@
 ||popads.net^
 ||adsco.re^
 ||ad4mat.net^
-! ||smartadserver.com^
+||smartadserver.com^
 ||exosrv.com^
 ||exelator.com^
 ||criteo.com^
@@ -169,7 +169,7 @@
 ||scorecardresearch.com^
 ||trafficjunky.net^
 ||trackcmp.net^
-! ||ad-srv.net^
+||ad-srv.net^
 ||powerlinks.com^$third-party
 ||ip-api.com^$third-party
 ||freegeoip.app^$third-party
@@ -272,12 +272,13 @@
 
 ! Advertising heuristic
 ||ads.*
+||ad.*
 ||advertising.*
 ! ||adserver.*
 ||syndication.*
 ||ads-*$third-party
 ||*-ads.*$third-party
-/*ad*rv*r*.*
+! /*ad*rv*r*.*
 
 ! Crypto jackers
 ||webminepool.com
