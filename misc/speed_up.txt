@@ -145,6 +145,7 @@
 ||criteo.com^
 ||aaxads.com^
 ||ncaudienceexchange.com^
+||analytics-static.ugc.bazaarvoice.com^
 ||mathtag.com^
 ||criteo.net^
 ||mnet-ad.net^
