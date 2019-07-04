@@ -133,6 +133,7 @@
 ||liadm.com^
 ||yacurlik.com^
 ||adskeeper.co.uk^
+||tamgrt.com^
 ||bluekai.com^
 ||juicyads.com^
 ||dc-storm.com^
@@ -141,6 +142,8 @@
 ||ad4mat.net^
 ||smartadserver.com^
 ||exosrv.com^
+||turn.com^
+||clicktale.net
 ||exelator.com^
 ||criteo.com^
 ||aaxads.com^
@@ -176,7 +179,7 @@
 ||freegeoip.app^$third-party
 ||adservice.google.com
 ||choice.microsoft.com
-/clicktale.
+! /clicktale.
 /maxymiser.
 /kissmetrics.
 /weborama.
