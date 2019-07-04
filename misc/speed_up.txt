@@ -189,7 +189,8 @@
 ! Website Visitor Analytics
 ||speedcurve.com^$third-party
 ||betrad.com^$third-party
-||newrelic.com^$third-party
+! ||newrelic.com^$third-party
+||js-agent.newrelic.com^
 ||ezoic.com^$third-party
 ||tapad.com^$third-party
 ||bugsnag.com^$third-party
@@ -198,7 +199,7 @@
 ||pingdom.net^$third-party
 ||amplitude.com^$third-party
 ||heapanalytics.com^$third-party
-||vk.com^$third-party
+||segment.io^$third-party
 
 ! Website junk
 ||phncdn.com/www-static/js/promo-banner.js^$script
@@ -244,6 +245,7 @@
 ! Experimental big networks
 ||instagram.com^$third-party
 ||pinterest.com^$third-party
+||vk.com^$third-party
 
 ! Block stuff that doesnt follow their own subdomain
 ||image.*$~image
