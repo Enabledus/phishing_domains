@@ -203,8 +203,7 @@
 ||google.com/pagead/
 ||youtube.com/api/stats/qoe?
 ||client-event-reporter.twitch.tv^
-||bing.com/fd/ls/$xmlhttprequest
-||bing.com/fd/ls/$image
+||bing.com/fd/ls/$image,xmlhttprequest
 ||yahoo.com/beacon/
 ||yahoo.com/_td_api/beacon/
 ||yandex.ru/clck/click/
@@ -215,6 +214,7 @@
 ||graph.instagram.com^
 ||analytics.ecosia.org^
 ||ad.altervista.org^
+||youtube.com/api/stats/qoe?
 
 ! Unbreak
 @@||amazon-adsystem.com/aax2/apstag.js$domain=twitch.tv
@@ -234,8 +234,6 @@
 ||yandex.ru^$third-party
 ||snapchat.com^$third-party
 ||linkedin.com^$third-party
-||youtube.com/api/stats/qoe?
-
 ! Well. This is just incase ampproject delivers something else
 ||cdn.ampproject.org$~script
 
