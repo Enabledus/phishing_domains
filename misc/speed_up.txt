@@ -214,6 +214,7 @@
 ||startpage.com/do/smt?
 ||graph.instagram.com^
 ||analytics.ecosia.org^
+||ad.altervista.org^
 
 ! Unbreak
 @@||amazon-adsystem.com/aax2/apstag.js$domain=twitch.tv
