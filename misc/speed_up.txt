@@ -223,6 +223,9 @@
 ||ad.altervista.org^
 ||youtube.com/api/stats/qoe?
 ||youtube.com/*_204?$image
+||youtube.com/get_midroll_
+||youtube.com/ptracking?
+||*.client-channel.google.com/client-channel/client?cfg=*^
 
 ! Unbreak
 @@||amazon-adsystem.com/aax2/apstag.js$domain=twitch.tv
