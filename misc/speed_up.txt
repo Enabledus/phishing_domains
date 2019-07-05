@@ -226,6 +226,7 @@
 ||youtube.com/get_midroll_
 ||youtube.com/ptracking?
 ||*.client-channel.google.com/client-channel/client?cfg=*^
+||*.google.com/invalidation/lcs/client?xpc=*^
 
 ! Unbreak
 @@||amazon-adsystem.com/aax2/apstag.js$domain=twitch.tv
