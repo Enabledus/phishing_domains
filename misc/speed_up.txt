@@ -155,6 +155,7 @@
 ||criteo.net^
 ||mnet-ad.net^
 ||truste.com^
+||smartadserver.com^
 ||otefauks.link^
 ||moatads.com^
 ||bidswitch.net^
@@ -226,7 +227,8 @@
 ||youtube.com/get_midroll_
 ||youtube.com/ptracking?
 ||*.client-channel.google.com/client-channel/client?cfg=*^
-||*.google.com/invalidation/lcs/client?xpc=*^
+||clients4.google.com/invalidation/lcs/client?xpc=*^
+||collector.githubapp.com^
 
 ! Unbreak
 @@||amazon-adsystem.com/aax2/apstag.js$domain=twitch.tv
