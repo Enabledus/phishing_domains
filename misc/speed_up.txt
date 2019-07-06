@@ -42,7 +42,7 @@
 ?var=
 ?var=&popup
 ?ip=
-?h=
+?h=$~image
 ?adtype=
 ?hc=
 ?adnxs=
