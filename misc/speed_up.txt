@@ -141,6 +141,7 @@
 ||tamgrt.com^
 ||bluekai.com^
 ||juicyads.com^
+||inspectlet.com^
 ||adtech.de^
 ||dc-storm.com^
 ||popads.net^
