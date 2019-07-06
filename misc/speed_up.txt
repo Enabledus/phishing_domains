@@ -235,7 +235,7 @@
 @@||static.twitchcdn.net$third-party,domain=twitch.tv,xmlhttprequest
 @@||usher.ttvnw.net/api/channel/hls/*token=$third-party,domain=twitch.tv,xmlhttprequest
 @@||gateway.discord.gg$third-party,websocket
-@@||googlevideo.com/videoplayback?expire=$third-party,xmlhttprequest
+@@||googlevideo.com/videoplayback?$third-party,xmlhttprequest
 @@||video-edge-*.abs.hls.ttvnw.net/v1/segment/$third-party,xmlhttprequest
 
 ! Stop big networks, this is good for both privacy and speed
