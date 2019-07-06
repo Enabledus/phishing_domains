@@ -69,6 +69,7 @@
 &minBid=
 &view=ad&
 &popunder=
+&clickid=
 &googleadword=
 &rsz=
 &adurl=
@@ -133,6 +134,7 @@
 ||liadm.com^
 ||yacurlik.com^
 ||adskeeper.co.uk^
+||track.tkbo.com^
 ||tamgrt.com^
 ||bluekai.com^
 ||juicyads.com^
