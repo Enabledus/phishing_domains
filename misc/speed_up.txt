@@ -302,7 +302,7 @@
 
 ! Grabify IP Logger
 ! Keep in mind that if you've changed your user agent then this filter rule might not work
-||grabify.link^
+||grabify.link^$inline-script,document
 
 ! I Don't really like having 3rd party HTTP scripts running in the background.
 |http://$third-party,script,xmlhttprequest
