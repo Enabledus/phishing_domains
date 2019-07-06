@@ -301,7 +301,7 @@
 ||crypto*.*.*$websocket
 
 ! Grabify IP Logger
-! Keep in mind that if you've changed your user agent then this filter might not work.
+! Keep in mind that if you've changed your user agent then this filter rule might not work
 ||grabify.link^
 
 ! I Don't really like having 3rd party HTTP scripts running in the background.
