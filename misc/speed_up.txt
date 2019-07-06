@@ -144,7 +144,6 @@
 ||oneadserver.aol.com^
 ||adsco.re^
 ||ad4mat.net^
-||smartadserver.com^
 ||exosrv.com^
 ||turn.com^
 ||clicktale.net
@@ -224,7 +223,6 @@
 ||graph.instagram.com^
 ||analytics.ecosia.org^
 ||ad.altervista.org^
-||youtube.com/api/stats/qoe?
 ||youtube.com/*_204?$image
 ||youtube.com/get_midroll_
 ||youtube.com/ptracking?
