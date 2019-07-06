@@ -139,6 +139,7 @@
 ||agkn.com^
 ||liadm.com^
 ||yacurlik.com^
+||truex.com^
 ||adskeeper.co.uk^
 ||track.tkbo.com^
 ||tamgrt.com^
