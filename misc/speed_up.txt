@@ -52,6 +52,7 @@
 ?adform_pid=
 ?traffic_source=
 ?pid=
+&AdID=
 ?token=
 &drf=
 &zoneid=
