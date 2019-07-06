@@ -233,6 +233,7 @@
 ||clients4.google.com/invalidation/lcs/client?xpc=*^
 ||collector.githubapp.com^
 ||tempest.services.disqus.com^
+||trc.taboola.com^
 
 ! Unbreak
 @@||amazon-adsystem.com/aax2/apstag.js$domain=twitch.tv
