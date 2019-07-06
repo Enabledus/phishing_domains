@@ -216,6 +216,7 @@
 ||phncdn.com/www-static/js/promo-banner.js^$script
 ||trk.vidible.tv/trk/ad-request.gif*$image
 ||duckduckgo.com/t/
+||duckduckgo.com/share/spice/amazon/
 ||google.*/gen_204?$other
 ||google.*/log204?$xmlhttprequest
 ||google.com/pagead/
