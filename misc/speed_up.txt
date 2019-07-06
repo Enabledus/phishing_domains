@@ -12,6 +12,7 @@
 /px.gif?
 /hc/tracking/*
 /ping.gif?
+/adsnative/
 
 ! I don't know why. But I rarely see (static) domains do XHR requests, so better add it here.
 ! In rare occasions it breaks a few streaming websites.
@@ -231,6 +232,7 @@
 ||*.client-channel.google.com/client-channel/client?cfg=*^
 ||clients4.google.com/invalidation/lcs/client?xpc=*^
 ||collector.githubapp.com^
+||tempest.services.disqus.com^
 
 ! Unbreak
 @@||amazon-adsystem.com/aax2/apstag.js$domain=twitch.tv
@@ -281,6 +283,7 @@
 ?site_id=
 ?pageview:url=
 &documentRef=
+&sourceUrl=
 
 ! Block social buttons
 ||addthis.com^$third-party
