@@ -111,6 +111,8 @@
 ||adsrvr.org^
 ||amazon-adsystem.com^
 ||atwola.com^
+||remarketingpixel.com^
+||histats.com^
 ||rtmark.net^
 ||googletagmanager.com^
 ||googleadservices.com^
@@ -167,6 +169,7 @@
 ||33across.com^
 ||outbrain.com^
 ||outbrainimg.com^
+||allmyverygreatlife.com^
 ||mookie1.com^
 ||indexww.com^
 ||hs-analytics.net^
@@ -235,6 +238,7 @@
 ||collector.githubapp.com^
 ||tempest.services.disqus.com^
 ||trc.taboola.com^
+||cdn.onesignal.com^
 
 ! Unbreak
 @@||amazon-adsystem.com/aax2/apstag.js$domain=twitch.tv
