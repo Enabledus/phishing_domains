@@ -292,6 +292,7 @@
 ?pageview:url=
 &documentRef=
 &sourceUrl=
+&gu=
 
 ! Block social buttons
 ||addthis.com^$third-party
