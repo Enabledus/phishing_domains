@@ -303,7 +303,7 @@
 ||ads.*
 ||ad.*
 ||advertising.*
-! ||adserver.*
+||adserver.*
 ||syndication.*
 ||ads-*$third-party
 ||*-ads.*$third-party
