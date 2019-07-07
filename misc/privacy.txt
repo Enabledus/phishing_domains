@@ -153,8 +153,10 @@
 ||tamgrt.com^
 ||bluekai.com^
 ||juicyads.com^
+||quantummetric.com^
 ||inspectlet.com^
 ||adtech.de^
+||litix.io^
 ||dc-storm.com^
 ||adtechus.com^
 ||popads.net^
@@ -224,6 +226,8 @@
 ||heapanalytics.com^$third-party
 ||segment.io^$third-party
 ||heatmap.services^$third-party
+||bytegain.com^$third-party
+||errorception.com^$third-party
 
 ! Website junk
 ||phncdn.com/www-static/js/promo-banner.js^$script
