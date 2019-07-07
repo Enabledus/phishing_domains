@@ -13,9 +13,3 @@ The **Lite** filter can be combined with different filters since it blocks what 
 **Exploits** blocks a few patterns that some old school exploit kits followed. (Not recommended)
 
 **Domains** (OUTDATED) is like the usual filters you've seen before. It has got a list of tracking domains that it blocks.
-
-**Crawled** (OUTDATED) is a compilation of crawled filters that we've found while crawling the web for trackers
-
-### Coming soon
-
-**Phishing** is a list of known phishing domains that is update regularly.
