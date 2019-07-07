@@ -196,6 +196,7 @@
 ||trafficjunky.net^
 ||trackcmp.net^
 ||ad-srv.net^
+||dnn506yrbagrg.cloudfront.net^
 ||powerlinks.com^$third-party
 ||ip-api.com^$third-party
 ||freegeoip.app^$third-party
