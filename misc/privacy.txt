@@ -110,6 +110,7 @@
 ||connectad.io^
 ||lijit.com^
 ||firstimpression.io^
+||atdmt.com^
 ||adsrvr.org^
 ||simpli.fi^
 ||contextweb.com^
@@ -204,6 +205,7 @@
 /kissmetrics.
 /weborama.
 /dotomi.
+/adroll.
 
 ! Website Visitor Analytics
 ||speedcurve.com^$third-party
