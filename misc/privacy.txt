@@ -211,6 +211,7 @@
 ||amplitude.com^$third-party
 ||heapanalytics.com^$third-party
 ||segment.io^$third-party
+||heatmap.services^$third-party
 
 ! Website junk
 ||phncdn.com/www-static/js/promo-banner.js^$script
