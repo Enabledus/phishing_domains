@@ -306,7 +306,7 @@
 ||syndication.*
 ||ads-*$third-party
 ||*-ads.*$third-party
-/*|*|*|*|
+/*|*|*|*|*
 ! /*ad*rv*r*.*
 
 ! Crypto jackers
