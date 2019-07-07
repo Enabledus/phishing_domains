@@ -103,12 +103,18 @@
 ||adnxs.com^
 ||doubleclick.net^
 ||pub.network^
+||pubmatic.com^
 ||googlesyndication.com^
 ||iwanttodeliver.com^
 ||googletagservices.com^
 ||connectad.io^
+||lijit.com^
 ||firstimpression.io^
 ||adsrvr.org^
+||simpli.fi^
+||contextweb.com^
+||crwdcntrl.net^
+||spotxchange.com^
 ||amazon-adsystem.com^
 ||atwola.com^
 ||remarketingpixel.com^
@@ -196,6 +202,7 @@
 /maxymiser.
 /kissmetrics.
 /weborama.
+/dotomi.
 
 ! Website Visitor Analytics
 ||speedcurve.com^$third-party
