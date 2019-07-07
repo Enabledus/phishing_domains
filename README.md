@@ -4,7 +4,7 @@ A Filter for uBO that blocks internet garbage
 ___
 
 ### Filters
-**Speed Up** Focuses on website speed. If you're on a slow connection or a limited data plan, then this filter is for you. We accelerate the pages for you by blocking advertisers and big networks that want to snoop on your activity wherever you go.
+**Privacy** Focuses on website privacy. It blocks junk from sites, such as visitor analytics and trackers.
 
 **Lite** is for really low end computers that can barely handle any filters, I have focused on making it more based on patterns that most trackers share in common, rather than using a big domain list.
 The **Lite** filter can break some sites in exchange for the minimal ram footprint.
