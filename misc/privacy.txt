@@ -125,6 +125,7 @@
 ||parsely.com^
 ||adtng.com^
 ||cbbp1.com^
+||iesnare.com^
 ||etahub.com^
 ||go-mpulse.net^
 ||keywee.co^
