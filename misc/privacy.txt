@@ -117,6 +117,7 @@
 ||crwdcntrl.net^
 ||spotxchange.com^
 ||amazon-adsystem.com^
+||heapanalytics.com^
 ||atwola.com^
 ||remarketingpixel.com^
 ||histats.com^
