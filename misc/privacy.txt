@@ -329,6 +329,9 @@
 /*|*|*|*|*
 ! /*ad*rv*r*.*
 
+! YouTube did something to break existing filters
+www.youtube.com##ytd-compact-promoted-video-renderer.ytd-watch-next-secondary-results-renderer.style-scope
+
 ! Crypto jackers
 ||webminepool.com
 ||crypto*.*.*$websocket
