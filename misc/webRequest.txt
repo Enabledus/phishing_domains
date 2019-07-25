@@ -130,3 +130,4 @@
 *://*.tempest.services.disqus.com/*
 *://*.trc.taboola.com/*
 *://*.cdn.onesignal.com/*
+*://*.youtube.*/get_midroll_info
