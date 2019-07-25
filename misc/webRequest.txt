@@ -1,3 +1,4 @@
+*://*.analytics.brave.com/*
 *://*.platform.twitter.com/*
 *://*.analytics.twitter.com/*
 *://*.analytics.codigo.se/*
