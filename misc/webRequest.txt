@@ -1,4 +1,4 @@
-*://*.youtube.*/get_midroll_info
+*://*.youtube.*/get_midroll_info*
 *://*.platform.twitter.com/*
 *://*.analytics.twitter.com/*
 *://*.analytics.codigo.se/*
