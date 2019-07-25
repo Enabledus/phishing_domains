@@ -1,3 +1,4 @@
+*://*.*/advertisement/*
 *://*.youtube.*/get_midroll_info*
 *://*.platform.twitter.com/*
 *://*.analytics.twitter.com/*
