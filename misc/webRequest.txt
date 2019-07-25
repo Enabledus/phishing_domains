@@ -1,5 +1,3 @@
-*://*.*/advertisement/*
-*://*.youtube.*/get_midroll_*
 *://*.platform.twitter.com/*
 *://*.analytics.twitter.com/*
 *://*.analytics.codigo.se/*
