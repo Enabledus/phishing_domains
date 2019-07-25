@@ -1,3 +1,4 @@
+*://*.youtube.*/get_midroll_info
 *://*.platform.twitter.com/*
 *://*.analytics.twitter.com/*
 *://*.analytics.codigo.se/*
@@ -130,4 +131,3 @@
 *://*.tempest.services.disqus.com/*
 *://*.trc.taboola.com/*
 *://*.cdn.onesignal.com/*
-*://*.youtube.*/get_midroll_info
