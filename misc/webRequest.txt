@@ -1,3 +1,5 @@
+*://*.youtube.*/pagead/*
+*://*.youtube.*/ptracking?*
 *://*.platform.twitter.com/*
 *://*.analytics.twitter.com/*
 *://*.analytics.codigo.se/*
