@@ -1,6 +1,7 @@
 *://*.youtube.com/api/stats/ads*
 *://*.youtube.com/pagead/*
 *://*.youtube.com/get_midroll_info*
+*://*.collector-medium.lightstep.com/*
 *://*.crazyegg.com/*
 *://*.hellobar.com/*
 *://*.t.a3cloud.net/*
