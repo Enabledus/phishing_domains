@@ -1,3 +1,4 @@
+*://*.youtube.com/pagead/*
 *://*.youtube.com/get_midroll_info*
 *://*.crazyegg.com/*
 *://*.hellobar.com/*
