@@ -1,7 +1,10 @@
 *://*.youtube.com/api/stats/ads*
 *://*.youtube.com/pagead/*
-*://*.youtube.com/get_midroll_info*
+*://*.youtube.com/ptracking*
+*://*.youtube.com/api/stats/qoe*
+*://*.youtube.com/get_midroll_*
 *://*.collector-medium.lightstep.com/*
+*://*.client-event-reporter.twitch.tv/*
 *://*.crazyegg.com/*
 *://*.hellobar.com/*
 *://*.t.a3cloud.net/*
