@@ -1,3 +1,4 @@
+*://*.youtube.com/get_midroll_info*
 *://*.crazyegg.com/*
 *://*.hellobar.com/*
 *://*.t.a3cloud.net/*
