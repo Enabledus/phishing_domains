@@ -1,3 +1,4 @@
+*://*.youtube.com/api/stats/ads*
 *://*.youtube.com/pagead/*
 *://*.youtube.com/get_midroll_info*
 *://*.crazyegg.com/*
