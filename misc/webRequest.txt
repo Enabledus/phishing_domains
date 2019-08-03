@@ -5,6 +5,7 @@
 *://*.twitter.com/i/jot
 *://*.twitter.com/i/csp_report?*
 *://*.summerhamster.com/*
+*://*.everestjs.net/*
 *://*.duckduckgo.com/t/*
 *://*.redditmedia.com/gtm/jail*
 *://*.youtube.com/api/stats/ads*
