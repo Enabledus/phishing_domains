@@ -15,6 +15,7 @@
 *://*.youtube.com/ptracking*
 *://*.youtube.com/api/stats/qoe*
 *://*.youtube.com/get_midroll_*
+*://*.youtube.com/csi_204*
 *://*.collector-medium.lightstep.com/*
 *://*.client-event-reporter.twitch.tv/*
 *://*.crazyegg.com/*
