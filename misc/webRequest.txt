@@ -1,4 +1,5 @@
 *://*/*t.gif*
+*://*.zdnet.com/*promo*
 *://*.twitter.com/1.1/promoted_content/log.json
 *://*.twitter.com/1.1/jot/client_event.json
 *://*.twitter.com/i/jot
