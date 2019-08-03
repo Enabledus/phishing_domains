@@ -1,4 +1,4 @@
-*://*/videoplayback*
+*://*/t.gif
 *://*.duckduckgo.com/t/*
 *://*.redditmedia.com/gtm/jail*
 *://*.youtube.com/api/stats/ads*
@@ -21,6 +21,7 @@
 *://*.adnxs.com/*
 *://*.doubleclick.net/*
 *://*.pub.network/*
+*://*.cbsi.com/*
 *://*.pubmatic.com/*
 *://*.googlesyndication.com/*
 *://*.iwanttodeliver.com/*
