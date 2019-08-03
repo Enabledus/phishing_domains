@@ -1,3 +1,4 @@
+*://*/videoplayback*
 *://*.duckduckgo.com/t/*
 *://*.redditmedia.com/gtm/jail*
 *://*.youtube.com/api/stats/ads*
