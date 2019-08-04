@@ -1,3 +1,4 @@
+*://*.consensu.org/*
 *://*/*t.gif*
 *://*/*vglnk.js
 *://*.zdnet.com/*promo*
