@@ -27,5 +27,5 @@
 ||*.guru$important
 ||*.best$important
 
-! 000webhost
+! 000webhost. Literally abused as shit.
 ||*.000webhostapp.com$important
