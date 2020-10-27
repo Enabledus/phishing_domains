@@ -1,0 +1,31 @@
+! Much crap is often done on these TLD's and subdomains
+
+! Freenom
+||*.tk$important
+||*.ml$important
+||*.ga$important
+||*.cf$important
+||*.gq$important
+
+! NOIP https://www.noip.com/
+||*.hopto.org$important
+||*.zapto.org$important
+||*.sytes.net$important
+||*.ddns.net$important
+
+! ngrok
+||*.ngrok.io$important
+
+! Suspicious patterns
+
+! mostly found in phishing URLs (google.com.dfsjfsdfsd.xyz)
+||*.com.*.xyz$important
+||*.com.*.top$important
+||*.com.*.best$important
+
+! TLD's mostly found in IP loggers
+||*.guru$important
+||*.best$important
+
+! 000webhost
+||*.000webhostapp.com$important
