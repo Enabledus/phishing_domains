@@ -22,6 +22,7 @@
 ||*.com.*.xyz$important
 ||*.com.*.top$important
 ||*.com.*.best$important
+||amazon.*.com$important
 
 ! TLD's mostly found in IP loggers
 ||*.guru$important
@@ -29,3 +30,13 @@
 
 ! 000webhost. Literally abused as shit.
 ||*.000webhostapp.com$important
+
+! Firebase hosting
+||*.firebaseapp.com$important
+
+! Who actually use these TLDs?
+||*.ly$important
+||*.gy$important
+||*.ooo$important
+||*.gd$important
+||*.monster$important
