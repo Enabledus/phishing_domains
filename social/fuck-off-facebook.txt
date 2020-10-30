@@ -11,4 +11,4 @@
 ||thefacebook.com^
 ||whatsapp.com^
 ||m.me^
-||fb.com
+||fb.com^
