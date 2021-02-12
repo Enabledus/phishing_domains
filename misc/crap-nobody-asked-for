@@ -16,6 +16,19 @@
 ! ngrok
 ||*.ngrok.io$important
 
+! YDNS
+||*.ydns.io$important
+||*.ydns.eu$important
+
+! FreeDNS (Incomplete)
+||*.chickenkiller.com$important
+||*.crabdance.com$important
+||*.ignorelist.com$important
+||*.jumpingcrab.com$important
+||*.mooo.com$important
+||*.strangled.net$important
+||*.twilightparadox.com$important
+
 ! Suspicious patterns
 
 ! mostly found in phishing URLs (google.com.dfsjfsdfsd.xyz)
