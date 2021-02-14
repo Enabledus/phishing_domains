@@ -58,6 +58,9 @@
 ! Netlify
 ||*.netlify.app$important
 
+! Godaddysites
+||*.godaddysites.com$important
+
 ! Who actually use these TLDs?
 ||*.ly$important
 ||*.gy$important
@@ -68,12 +71,17 @@
 ||*.surf$important
 ||*.guru$important
 ||*.best$important
+||*.cc$important
 
 ! Shorteners
 ||s.id$important
 ||n9.cl$important
-||cutt.ly$important
-||bit.ly$important
+! ||cutt.ly$important
+! ||bit.ly$important
 ||tinyurl.com$important
 ||urls.ziad87.net$important
 ||bit.do$important
+||urlth.me$important
+||han.gl$important
+||urlz.fr$important
+! ||snip.ly$important
