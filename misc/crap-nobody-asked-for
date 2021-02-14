@@ -20,6 +20,12 @@
 ||*.ydns.io$important
 ||*.ydns.eu$important
 
+! DuckDNS
+||*.duckdns.org$important
+
+! Dynu
+||*.dynu.com$important
+
 ! FreeDNS (Incomplete)
 ||*.chickenkiller.com$important
 ||*.crabdance.com$important
@@ -29,6 +35,9 @@
 ||*.strangled.net$important
 ||*.twilightparadox.com$important
 
+! I sure hope nobody uses this crap
+||*.yolasite.com$important
+
 ! Suspicious patterns
 
 ! mostly found in phishing URLs (google.com.dfsjfsdfsd.xyz)
@@ -37,15 +46,17 @@
 ||*.com.*.best$important
 ||amazon.*.com$important
 
-! TLD's mostly found in IP loggers
-||*.guru$important
-||*.best$important
-
 ! 000webhost. Literally abused as shit.
 ||*.000webhostapp.com$important
 
 ! Firebase hosting
 ||*.firebaseapp.com$important
+
+! Glitch
+||*.glitch.me$important
+
+! Netlify
+||*.netlify.app$important
 
 ! Who actually use these TLDs?
 ||*.ly$important
@@ -54,3 +65,15 @@
 ||*.gd$important
 ||*.monster$important
 ||*.online$important
+||*.surf$important
+||*.guru$important
+||*.best$important
+
+! Shorteners
+||s.id$important
+||n9.cl$important
+||cutt.ly$important
+||bit.ly$important
+||tinyurl.com$important
+||urls.ziad87.net$important
+||bit.do$important
