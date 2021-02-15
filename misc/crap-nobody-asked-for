@@ -35,6 +35,9 @@
 ||*.strangled.net$important
 ||*.twilightparadox.com$important
 
+! DNSExit
+||*.publicvm.com$important
+
 ! I sure hope nobody uses this crap
 ||*.yolasite.com$important
 
@@ -57,6 +60,9 @@
 
 ! Netlify
 ||*.netlify.app$important
+
+! Repl
+||*.repl.co$important
 
 ! Godaddysites
 ||*.godaddysites.com$important
