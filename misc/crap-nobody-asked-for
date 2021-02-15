@@ -82,7 +82,6 @@
 ||*.cc$important
 ||*.ps$important
 ||*.lat$important
-||*.cc$important
 ||*.buzz$important
 
 ! Shorteners
