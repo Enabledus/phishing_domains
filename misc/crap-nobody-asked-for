@@ -54,6 +54,7 @@
 
 ! Firebase hosting
 ||*.firebaseapp.com$important
+||*.web.app$important
 
 ! Glitch
 ||*.glitch.me$important
